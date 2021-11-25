@@ -1,6 +1,6 @@
-﻿;
-; Game Name
+﻿
 ;
+; Game Name
 ;
 20 	"LEGO Star Wars: The Complete Saga"
 ;
@@ -9,8 +9,8 @@
 35 "MISSION 11: R2-D2"
 36 "MISSION 12: Obi-Wan Kenobi"
 37 "MISSION 13: Chewbacca"
-38 "MISSION 14: Princess Leia"
-39 "MISSION 15: Admiral Ackbar"
+38 "MISSION 14: Princess Leia Organa"
+39 "MISSION 15: Admiral Gail Ackbar"
 40 "MISSION 16: Yoda"
 41 "MISSION 17: C-3PO"
 42 "MISSION 18: Lando Calrissian"
@@ -73,109 +73,109 @@
 93 "Jump from vehicles and creatures to high-up areas."
 94 "Blow away sand with your engines to reveal hidden grates."
 95 "See if you can find someone to buy your landspeeder."
-96 "Destroy silver objects with Greedo's thermal detonators."
-97 "Jawas can sneak through access panels to secret areas."
+96 "Destroy silver objects with Greedo's thermal detonators." ; LSWII demo; probably removable
+97 "Jawas can sneak through access panels to secret areas." ; LSWII demo; probably removable
 98 "All studs collected"
 99 "Challenge"
 
 ;
 ; Character names
 ;
-100 "Princess Leia"
-101 "Princess Leia (Hoth)"
+100 "Princess Leia Organa"
+101 "Leia Organa (Hoth)"
 102 "Rebel Trooper"
 103 "R2-D2"
 104 "C-3PO"
-105 "Obi-Wan Kenobi"
-106 "The Emperor"
+105 "Obi-Wan Kenobi (Padawan)"
+106 "Emperor Palpatine" ; he disowned the name Sheev, so not putting here
 107 "Darth Vader"
 108 "Tusken Raider"
 109 "Yoda"
 110 "Gonk Droid"
-111 "Stormtrooper"
+111 "Imperial Stormtrooper"
 112 "Luke Skywalker (Bespin)"
 113 "Luke Skywalker (Endor)"
-114 "Luke Skywalker (Jedi)"
+114 "Luke Skywalker (Black Robes)" ; "Luke Skywalker (Jedi)"
 115 "Luke Skywalker (Tatooine)"
 116 "Han Solo"
 117 "Lando Calrissian"
-118 "X-wing"
-119 "Y-wing"
-120 "Snowspeeder"
+118 "X-Wing"
+119 "Y-Wing"
+120 "T-47 Snowspeeder"
 121 "Millennium Falcon"
 122 "Speeder Bike"
-123 "TIE Fighter"
+123 "Imperial TIE Fighter"
 124 "Chewbacca"
 125 "Jawa"
-126 "Snowtrooper"
+126 "Imperial Snowtrooper"
 127 "Beach Trooper"
-128 "Luke Skywalker (Stormtrooper)"
-129 "Han Solo (Stormtrooper)"
+128 "Imperial Luke Skywalker (Stormtrooper Disguise)"
+129 "Imperial Han Solo (Stormtrooper Disguise)"
 130 "Death Star Trooper"
-131 "TIE Fighter Pilot"
-132 "Sandtrooper"
-133 "Scout Trooper"
+131 "Imperial TIE Fighter Pilot"
+132 "Imperial Sandtrooper"
+133 "Imperial Scout Trooper"
 134 "Imperial Officer"
 135 "Imperial Shuttle Pilot"
 136 "Boba Fett"
-137 "Ben Kenobi"
-138 "Princess Leia (Bespin)"
+137 "Obi-Wan Kenobi (Old Ben)"
+138 "Leia Organa (Bespin)"
 139 "Speeder Bike (Snow)"
 140 "Jango Fett"
 141 "General Grievous"
 142 "Darth Maul"
 143 "Mace Windu"
-144 "Mace Windu (Episode III)"
-145 "Grievous' Bodyguard"
+144 "Mace Windu (Grey Robes)"
+145 "IG-100 MagnaGuard"
 146 "Droideka"
-147 "Mouse Droid"
+147 "MSE-6 Mouse Droid"
 148 "R4-P17"
-149 "Battle Droid"
-150 "Battle Droid (Commander)"
-151 "Battle Droid (Geonosis)"
-152 "Battle Droid (Security)"
+149 "B1-Series Battle Droid"
+150 "B1-Series Battle Droid (Commander)"
+151 "B1-Series Battle Droid (Geonosis)"
+152 "B1-Series Battle Droid (Security)"
 153 "TC-14"
-154 "Wookiee"
+154 "Wookiee" ; Wookiee Warrior?
 155 "Chancellor Palpatine"
-156 "Obi-Wan Kenobi (Episode III)"
-157 "Obi-Wan Kenobi (Jedi Master)"
-158 "Padmé"
-159 "Padmé (Battle)"
-160 "Padmé (Clawed)"
-161 "Padmé (Geonosis)"
+156 "Obi-Wan Kenobi (Clone Wars)" ; "Obi-Wan Kenobi (Episode III)". An early TCW version would be "Obi-Wan Kenobi (General)"
+157 "Obi-Wan Kenobi (Mullet)" ; "Obi-Wan Kenobi (Jedi Master)". Could use a better name.
+158 "Padmé Amidala" ; should change to "(Tatooine)", but that currently also changes Padmé Amidala (Pregnant) and Padmé Amidala (Mustafar). Officially "Peasant Disguise"
+159 "Padmé Amidala (Battle of Naboo)"
+160 "Padmé Amidala (Battle of Geonosis)" ; "Padmé Amidala (Clawed)"
+161 "Padmé Amidala (Shawl)" ; "Padmé Amidala (Geonosis)"
 162 "Queen Amidala"
-163 "Super Battle Droid"
-164 "Ki-Adi Mundi"
+163 "B2-Series Super Battle Droid"
+164 "Ki-Adi-Mundi"
 165 "Kit Fisto"
-166 "Luminara"
+166 "Luminara Unduli"
 167 "Shaak Ti"
-168 "Clone"
-169 "Clone (Episode III)"
-170 "Clone (Episode III, Pilot)"
-171 "Commander Cody"
-172 "Clone (Episode III, Swamp)"
-173 "Clone (Episode III, Walker)"
+168 "Clone Trooper"
+169 "Clone Trooper (Phase II)"
+170 "Clone Pilot (Phase II)"
+171 "Clone Commander (Phase II)" ; Commander Cody, as not really unique
+172 "Clone Swamp Trooper (Phase II)"
+173 "Clone Walker Driver (Phase II)"
 174 "Disguised Clone"
 175 "Anakin Skywalker (Boy)"
 176 "Boba Fett (Boy)"
 177 "Geonosian"
-178 "Anakin Skywalker (Jedi)"
+178 "Anakin Skywalker (Clone Wars)" ; "Anakin Skywalker (Jedi)". An early TCW version would be "Anakin Skywalker (General)"
 179 "Anakin Skywalker (Padawan)"
-180 "Droid 1"
-181 "Captain Panaka"
+180 "WED Treadwell Droid" ; Naff Droid 1. Technically a repair droid, but that's wordy
+181 "Captain Quarsh Panaka"
 182 "Jar Jar Binks"
-183 "PK Droid"
-184 "Royal Guard"
+183 "PK-Series Worker Droid"
+184 "Naboo Royal Guard"
 185 "Gamorrean Guard"
 186 "Count Dooku"
 187 "Qui-Gon Jinn"
-188 "Droid 2"
-189 "Slave 1"
+188 "NAFF-Series Repair Droid" ; Naff Droid 2. TCR claims it's a KPR-series droid, but that's a stretch
+189 "Slave I"
 190 "Rebel Pilot"
-191 "Han Solo (frozen in carbonite)"
+191 "Han Solo (Frozen in Carbonite)"
 192 "Rebel Trooper (Hoth)"
-193 "TIE Interceptor"
-194 "Princess Leia (Boushh)"
+193 "Imperial TIE Interceptor"
+194 "Leia Oragna (Boushh Disguise)"
 195 "Grand Moff Tarkin"
 196 "Han Solo (Skiff)"
 197 "Han Solo (Hood)"
@@ -183,53 +183,53 @@
 199 "Luke Skywalker (Pilot)"
 200 "Luke Skywalker (Dagobah)"
 201 "Ugnaught"
-202 "Princess Leia (Slave)"
-203 "Princess Leia (Endor)"
-204 "Stranger 1"
-205 "Stranger 2"
+202 "Leia Organa (Slave)"
+203 "Leia Organa (Endor)"
+204 "Stranger 1" ; is this used?
+205 "Stranger 2" ; is this used?
 206 "Greedo"
-207 "Imperial Spy"
-208 "TIE Fighter (Darth Vader)"
+207 "Garindan" ; Imperial Spy
+208 "Darth Vader's TIE Advanced"
 209 "Bib Fortuna"
 210 "Skiff Guard"
-211 "Womp Rat"
+211 "Scurrier" ; womp rat
 212 "Rebel Friend"
-213 "Droid 3"
-214 "Droid 4"
+213 "ASP-Series Labor Droid" ; Naff Droid 3
+214 "R1-Series Astromech Droid" ; Naff Droid 4
 215 "Lobot"
 216 "Bespin Guard"
-217 "Imperial Guard"
-218 "Ben Kenobi (Ghost)"
-219 "Palace Guard"
-220 "IG-88"
-221 "Imperial Shuttle"
+217 "Imperial Royal Guard"
+218 "Obi-Wan Kenobi (Force Ghost)"
+219 "Jabba's Palace Guard"
+220 "IG-88B"
+221 "Lambda-class Imperial Shuttle" ; verified
 222 "Ewok"
-223 "Lando (Palace Guard)"
+223 "Lando Calrissian (Tamtel Skreej)" ;"Lando Calrissian (Palace Guard)"
 224 "Luke Skywalker (Hoth)"
-225 "Princess Leia (Prisoner)"
+225 "Princess Leia (Bespin Prisoner)"
 226 "Han Solo (Endor)"
-227 "Captain Antilles"
-228 "TIE Bomber"
-229 "Admiral Ackbar"
+227 "Captain Raymus Antilles"
+228 "Imperial TIE Bomber"
+229 "Admiral Gial Ackbar"
 230 "Bossk"
 231 "Dengar"
-232 "Wicket"
+232 "Wicket W. Warrick"
 233 "4-LOM"
-234 "Anakin Skywalker (Ghost)"
-235 "Yoda (Ghost)"
+234 "Anakin Skywalker (Force Ghost)"
+235 "Yoda (Force Ghost)"
 236 "Imperial Probe Droid"
 237 "Rebel Engineer"
 238 "Skeleton"
 239 "AT-AT Driver"
 240 "Imperial Engineer"
-241	"Pit Droid"
-242 	"Boss Nass"
+241	"DUM-Series Pit Droid"
+242 "Boss Nass"
 243	"Zam Wesell"
-244 	"Watto"
+244 "Watto"
 245 	"Indiana Jones"
 246 	"Satipo"
-247 	"Jock"
-248 	"Belloq"
+247 	"Jock Lindsey"
+248 	"Dr. René Belloq"
 249 	"Hovitos Tribesman"
 250 	"Barranca"
 251 "Lama Su"
@@ -239,27 +239,29 @@
 255 "Aayla Secura"
 256 "Plo Koon"
 257 "Darth Plagueis"
-258 "Anakin's Speeder"
-259 "Anakin's Speeder (Green)"
-260 "Naboo Starfighter"
-261 "Naboo Starfighter (Blue)"
-262 "Republic Gunship"
-263 "Republic Gunship (Green)"
-264 "Anakin's Pod"
-265 "Anakin's Pod (Green)"
-266 "Jedi Starfighter (Yellow)"
-267 "Jedi Starfighter (Red)"
-268 "Naboo Starfighter (Green)"
+258 "XJ-6 Airspeeder" ;"Anakin's Speeder"
+259 "XJ-6 Airspeeder (Green)"
+260 "N-1 Naboo Starfighter"
+261 "N-1 Naboo Starfighter (Blue)"
+262 "LAAT" ; republic gunship
+263 "LAAT (Green)"
+264 "Anakin's Podracer"
+265 "Anakin's Podracer (Green)" ; Kitster's, if you really want, lol
+266 "Eta-2 Jedi Interceptor (Yellow)" ; Actis-class, but that's too long
+267 "Eta-2 Jedi Interceptor (Red)"
+268 "N-1 Naboo Starfighter (Green)"
 269 "Dexter Jettster"
 270 "Sebulba's Pod"
-271 "Droid Trifighter"
-272 "Clone Arcfighter"
+271 "Droid Tri-Fighter"
+272 "Clone ARC-170 starfighter"
 273 "Vulture Droid"
 274 "Buzz Droid"
 275 "Wampa"
 276 "Rancor"
-277 "Gungan"
-278 	"Training Remote"
+277 "Gungan Warrior"
+278 "Training Remote"
+
+279 ""
 
 ; LSW I Mission names
 ;
@@ -268,11 +270,17 @@
 282 	"MISSION 3: Jar Jar Binks"
 283 	"MISSION 4: Mace Windu"
 284 	"MISSION 5: Kit Fisto"
-285 	"MISSION 6: Luminara"
-286 	"MISSION 7: Ki-Adi Mundi"
+285 	"MISSION 6: Luminara Unduli"
+286 	"MISSION 7: Ki-Adi-Mundi"
 287 	"MISSION 8: Rebel Trooper"
-288 	"MISSION 9: ShaakTi"
-289 	"MISSION 10: Commander Cody"
+288 	"MISSION 9: Shaak Ti"
+289 	"MISSION 10: Commander Cody" ; leave this, despite changing his nameid
+
+290 ""
+291 ""
+292 ""
+293 ""
+294 ""
 
 ;
 ; New game text
@@ -306,13 +314,14 @@
 ;
 310 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
 311 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
-312 "Their next target: the Alderaan Senator Princess Leia, currently a guest of Darth Vader on the mighty Death Star battle station...."
+312 "Their next target: the Alderaan Senator Leia Organa, currently a guest of Darth Vader on the mighty Death Star battle station...."
 ;
 ; Mission 15
 ;
 313 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
 314 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
-315 "Their next target: the Rebel Commander Admiral Ackbar, stationed on the Rebel base of Hoth...."
+;315 "Their next target: the Rebel Commander Admiral Ackbar, stationed on the Rebel base of Hoth...."
+315 "Their next target: the Rebel Admiral Gial Ackbar, stationed on the Rebel base of Hoth...."
 ;
 ; Mission 16
 ;
@@ -369,29 +378,58 @@
 350 	"Outro"
 351 	"Ending"
 
+352 ""
+353 ""
+354 ""
+355 ""
+356 ""
+357 ""
+358 ""
+359 ""
+360 ""
+361 ""
+362 ""
+363 ""
+364 ""
+365 ""
+366 ""
+367 ""
+368 ""
+369 ""
+370 ""
+371 ""
+372 ""
+373 ""
+374 ""
+375 ""
+376 ""
+377 ""
+378 ""
+379 ""
+
 ;
 ; New mini-kit names
 ;
-380 "Millennium Falcon"
-381 "X-wing"
-382 "TIE Interceptor"
-383 "Imperial Shuttle"
-384 "Slave 1"
-385 "TIE Advanced"
-386 "TIE Fighter"
+380 "The Millennium Falcon"
+381 "X-Wing Starfighter"
+382 "Imperial TIE Interceptor"
+383 "Lambda-class Imperial Shuttle" ; verified
+384 "Slave I"
+385 "Imperial TIE Advanced"
+386 "Imperial TIE Fighter"
 387 "Sandcrawler"
 388 "AT-ST"
 389 "AT-AT"
-390 "Star Destroyer"
-391 "Y-wing"
+390 "Imperial Star Destroyer"
+391 "Y-Wing"
 392 "Snowspeeder"
-393 "Land Speeder"
-394 "Sail Barge"
-395 "Desert Skiff"
-396 "Cloud Car"
-397 "TIE Bomber"
+393 "X-34 Landspeeder"
+394 "The Khetanna" ; Sail Barge
+395 "Bantha-II Cargo Skiff" ; Desert Skiff
+396 "Storm IV Twin-Pod Cloud Car"
+397 "Imperial TIE Bomber"
 398 "Super Star Destroyer"
-399 "Zam's Airspeeder"
+399 "Koro-2 Exodrive Airspeeder" ; Zam Wessel's
 
 ;
 ; Text crawls - use up to 3 paragraphs, max 256 characters each...
@@ -403,6 +441,10 @@
 ;
 ; Episode IV
 ;
+
+;;; "It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire."
+;;; "During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the DEATH STAR, an armored space station with enough power to destroy an entire planet."
+;;; "Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy...."
 
 ; Blockade Runner
 400 "It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire."
@@ -417,7 +459,7 @@
 ; Mos Eisley
 406 "In search of a pilot who can take them to the distant planet of Alderaan, Luke Skywalker and old Ben Kenobi journey by landspeeder to Mos Eisley spaceport."
 407 "Here, among the most dangerous and reckless elements of Tatooine society, they hope to find someone brave or foolhardy enough to help in their quest to deliver R2-D2's secret data to the Rebel Alliance. But Imperial forces are everywhere...."
-408
+408 ""
 
 ; Death Star Rescue
 409 "Imprisoned in the Death Star, Princess Leia still refuses to reveal the location of the Rebel Base to the evil Darth Vader."
@@ -515,6 +557,10 @@
 ; Episode I
 ;
 
+;;; "Turmoil has engulfed the Galactic Republic. The taxation of trade routes to outlying star systems is in dispute."
+;;; "Hoping to resolve the matter with a blockade of deadly battleships, the greedy Trade Federation has stopped all shipping to the small planet of Naboo."
+;;; "While the Congress of the Republic endlessly debates this alarming chain of events, the Supreme Chancellor has secretly dispatched two Jedi Knights, the guardians of peace and justice in the galaxy, to settle the conflict..."
+
 ; Negotiations
 457 "Turmoil has engulfed the Galactic Republic! With a blockade of deadly battleships, the Trade Federation has stopped all shipping to the small planet of Naboo."
 458 "The Supreme Chancellor has secretly dispatched Jedi Knights Qui-Gon Jinn and Obi-Wan Kenobi to settle the conflict...."
@@ -543,6 +589,10 @@
 ; Episode II
 ;
 
+;;; "There is unrest in the Galactic Senate. Several thousand solar systems have declared their intentions to leave the Republic."
+;;; "This separatist movement, under the leadership of the mysterious Count Dooku, has made it difficult for the limited number of Jedi Knights to maintain peace and order in the galaxy."
+;;; Senator Amidala, the former Queen of Naboo, is returning to the Galactic Senate to vote on the critical issue of creating an ARMY OF THE REPUBLIC to assist the overwhelmed Jedi...."
+
 ;@@@
 ; Discovery On Kamino
 469 	"As Separatist activity continues to destabilize the galaxy, Obi-Wan Kenobi investigates the attempted assassination of Senator Padmé Amidala."
@@ -567,6 +617,10 @@
 ;
 ; Episode III
 ;
+
+;;; "War! The Republic is crumbling under attacks by the ruthless Sith Lord, Count Dooku. There are heroes on both sides. Evil is everywhere."
+;;; "In a stunning move, the fiendish droid leader, General Grievous, has swept into the Republic capital and kidnapped Chancellor Palpatine, leader of the Galactic Senate."
+;;; "As the Separatist Droid Army attempts to flee the besieged capital with their valuable hostage, two Jedi Knights lead a desperate mission to rescue the captive Chancellor...."
 
 ; Battle Over Coruscant
 479 "The Republic is crumbling under a Separatist assault led by Count Dooku and General Grievous. In a stunning move, Separatist forces have swept into Coruscant and kidnapped Supreme Chancellor Palpatine."
@@ -612,6 +666,8 @@
 497	"The galaxy is in turmoil. Lives are engulfed by conflict."
 498	"Former friends now find themselves adversaries, training to improve their skills in preparation for the dark times ahead...."
 
+499 ""
+
 ;
 ; Episode IV text
 ;
@@ -635,6 +691,9 @@
 515 "While the Rebel Alliance struggles heroically with the oppressive Empire, and as Luke Skywalker moves closer to his epic destiny, daily life goes on across the galaxy."
 516 "On the deadly surface of the Death Star, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 517 "It’s the desperate, ruthless life of a world in turmoil...."
+
+518 ""
+519 ""
 
 ;
 ; Episode V text
@@ -660,6 +719,9 @@
 536 "On the frozen planet Hoth, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 537 "It’s the desperate, ruthless life of a world in turmoil...."
 
+538 ""
+539 ""
+
 ;
 ; Episode VI text
 ;
@@ -684,6 +746,8 @@
 556 "In the battle-torn forest of Endor, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 557 "It’s the desperate, ruthless life of a world in turmoil...."
 
+558 ""
+
 ;
 ; Episode I text
 ;
@@ -707,6 +771,7 @@
 572 	"LEGO CITY"
 573 	"LOST TEMPLE"
 
+574 ""
 
 ;
 ; Bonus text
@@ -716,23 +781,27 @@
 ;
 ; Old mini-kit names...
 ;
-580 "Republic Cruiser"
-581 "Gungan Bongo"
-582 "Royal Starship"
-583 "Sebulba's Pod"
-584 "Naboo Starfighter"
-585 "Sith Infiltrator"
-586 "Jedi Starfighter"
+580 "Consular-Class Republic Cruiser"
+581 "Gungan Tribubble Bongo"
+582 "Naboo Royal Starship"
+583 "Sebulba's Podracer"
+584 "N-1 Naboo Starfighter"
+585 "The Scimitar" ; Sith Infiltrator
+586 "Delta-7 Jedi Starfighter"
 587 "Droideka"
-588 "Republic Gunship"
+588 "LAAT" ;Republic Gunship
 589 "AT-TE"
-590 "Solar Sailor"
-591 "Drop Ship"
-592 "Emergency Ship"
-593 "Jedi Starfighter (Episode III)"
-594 "Wookiee Cat"
-595 "ARC Fighter" // a.k.a MINIE3XWING
-596 "V wing"
+590 "Solar Sailer"
+591 "HMP droid gunship" ; "Drop Ship"
+592 "F-143 Fire Suppression Ship" ; "Emergency Ship"
+593 "Eta-2 Jedi Interceptor"
+594 "Wookiee Catamaran"
+595 "ARC-170 Starfighter" // a.k.a MINIE3XWING
+596 "V-Wing Starfighter"
+
+597 ""
+598 ""
+599 ""
 
 ;
 ; Hints - slots 600-659
@@ -1188,15 +1257,15 @@
 981 "M"               
 982 "COMMA"         
   
-983 "STOP"    
+983 "PERIOD" ; "STOP" (this game uses American English)
 ; . on main keyboard 
 
-984 "FORE SLASH"               
+984 "FWD SLASH" ;"FORE SLASH"               
 ; / on main keyboard 
 
 985 "R SHIFT"          
 
-986 "MULT"            
+986 "ASTRISK" ;"MULT"            
 ; * on numeric keypad 
 
 987 "L ALT"               
@@ -1281,6 +1350,7 @@
 1079 "KANJI"               
 ; (Japanese keyboard)            
 
+; does this need to be changed to "PERIOD"?
 1080 "STOP"                
 1081 "AX"                  
 ;                     (Japan AX) 
@@ -1306,6 +1376,16 @@
 1094 ""
 1095 "MEDIASTOP"           
 
+1096 ""
+1097 ""
+1098 ""
+1099 ""
+1100 ""
+1101 ""
+1102 ""
+1103 ""
+1104 ""
+
 1105 "VOLDOWN"          
 ; volume down / up
 1107 "VOLUP"            
@@ -1322,7 +1402,21 @@
 1115 "RGT ALT"              
 ;  right Alt 
 
+1116 ""
+1118 ""
+1119 ""
+1120 ""
+1121 ""
+1122 ""
+1123 ""
+1124 ""
+1125 ""
+1126 ""
+1127 ""
+
 1128 "PAUSE"               
+
+1129 ""
 
 ; arrow keypad
 1130 "HOME"               
@@ -1342,7 +1436,7 @@
 1150 "LT WIN"               
 ; Left / right  Windows key 
 1151 "RT WIN"               
-1152 "APPS"                
+1152 "MENU" ;"APPS"                
 ; AppMenu key 
 
 ;1153 "Joystick" ;moved to 1224
@@ -1422,7 +1516,7 @@
 1223 "Sound Options"
 1224 "Joystick"
 1225 "PLEASE RECONNECT THE CONTROLLER AND PRESS START TO CONTINUE"
-1226 "PLEASE RECONNECT THE CONTROLLER AND PRESS START TO CONTINUE"
+1226 "PLEASE RECONNECT THE CONTROLLER AND PRESS START TO CONTINUE" ; bruh
 
 1227  "Abandon Changes"
 1228  "Reset To Defaults"
@@ -1466,6 +1560,9 @@
 1266	"Do not turn off your Xbox console whenever you see the icon above on screen"
 1267 "Assign controller"
 
+1268 ""
+1269 ""
+
 
 
 ;	1186 pc "Accept"
@@ -1495,6 +1592,15 @@
 
 
 
+
+1292 ""
+1293 ""
+1294 ""
+1295 ""
+1296 ""
+1297 ""
+1298 ""
+1299 ""
 
 ;
 ; Customiser pieces 1300...1399
@@ -1545,6 +1651,12 @@
 
 1343 "Brightness"
 
+1344 ""
+1345 ""
+1346 ""
+1347 ""
+1348 ""
+
 ;
 ; Episode II text
 ;
@@ -1556,7 +1668,7 @@
 1353 "DROID FACTORY"
 1354 "JEDI BATTLE"
 1355 "GUNSHIP CAVALRY"
-1356 "COUNT DOOKU"
+1356 "DARTH TYRANUS" ; "COUNT DOOKU" (it's like poetry; it rhymes)
 1357 "Episode II complete"
 1358 "EPISODE II BONUS"
 
@@ -1573,6 +1685,38 @@
 1366 "DARTH VADER"
 1367 "Episode III complete"
 1368 "EPISODE III BONUS"
+
+1369 ""
+1370 ""
+1371 ""
+1372 ""
+1373 ""
+1374 ""
+1375 ""
+1376 ""
+1377 ""
+1378 ""
+1379 ""
+1380 ""
+1381 ""
+1382 ""
+1383 ""
+1384 ""
+1385 ""
+1386 ""
+1387 ""
+1388 ""
+1389 ""
+1390 ""
+1391 ""
+1392 ""
+1393 ""
+1394 ""
+1395 ""
+1396 ""
+1397 ""
+1398 ""
+1399 ""
 
 ; 
 1400 "White"
@@ -1626,7 +1770,8 @@
 
 1447 "Indiana Jones is now available to buy in the shop."
 1448	"Old Save Bonus"
-1449	"100% Complete! The character customiser now holds the key to Super Jedi Powers..."
+;1449	"100% Complete! The character customiser now holds the key to Super Jedi Powers..."
+1449	"100% Complete! The character customizer now holds the key to Super Jedi Powers..."
 
 ; TRCs ran out of space - continued at 1450...
 
@@ -1651,6 +1796,37 @@
 1467 "Too many saves found on this storage device. Only the first %i save slots can be accessed in game. Please use the Dashboard to reduce this number."
 1468 "The storage device has been removed or changed."
 1469 "Saving content. Please don't turn off your console."
+
+1470 ""
+1471 ""
+1472 ""
+1473 ""
+1474 ""
+1475 ""
+1476 ""
+1477 ""
+1478 ""
+1479 ""
+1480 ""
+1481 ""
+1482 ""
+1483 ""
+1484 ""
+1485 ""
+1486 ""
+1487 ""
+1488 ""
+1489 ""
+1490 ""
+1491 ""
+1492 ""
+1493 ""
+1494 ""
+1495 ""
+1496 ""
+1497 ""
+1498 ""
+1499 ""
 
 
 
@@ -1721,6 +1897,42 @@
 1567 "WIDESCREEN:  Off"
 1568 "WIDESCREEN:"
 
+1569 ""
+1570 ""
+1571 ""
+1572 ""
+1573 ""
+1574 ""
+1575 ""
+1576 ""
+1577 ""
+1578 ""
+1579 ""
+1580 ""
+1581 ""
+1582 ""
+1583 ""
+1584 ""
+1585 ""
+1586 ""
+1587 ""
+1588 ""
+1589 ""
+1590 ""
+1591 ""
+1592 ""
+1593 ""
+1594 ""
+1595 ""
+1596 ""
+1597 ""
+1598 ""
+1599 ""
+
+;;; NEW BOUNTY HUNTER MISSIONS
+
+; Need to figure out how to reword w/o mentioning imperials
+
 ; Mission 1
 ;
 1600 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
@@ -1765,7 +1977,8 @@
 ;
 ; Mission 8
 ;
-1621 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+;1621 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+1621 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
 1622 	"The greedy mercenaries know no limits in their pursuit of bounty."
 1623 	"On the planet Kashyyyk, they will even pursue a lone Rebel Trooper, far away from home...."
 ;
@@ -1785,14 +1998,14 @@
 ;Episode I Character Bonus
 ;
 1630 "THEED PALACE"
-1631 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1631 "As the Republic struggles to deal with the increasing civil unrest, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
 1632 "In Theed Palace on Naboo, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 1633 "It’s the desperate, ruthless life of a world in turmoil...."
 ;
 ;Episode I Vehicle Bonus
 ;
 1634 "TATOOINE"
-1635 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1635 "As the Republic struggles to deal with the increasing civil unrest, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
 1636 "In the Pod racing arena on Tatooine, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 1637 "It’s the desperate, ruthless life of a world in turmoil...."
 
@@ -1800,14 +2013,14 @@
 ;Episode II Character Bonus
 ;
 1638 "GEONOSIS"
-1639 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1639 "As the Republic struggles to deal with the Separatist threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
 1640 "In the droid factory on Geonosis, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 1641 "It’s the desperate, ruthless life of a world in turmoil...."
 ;
 ;Episode II Vehicle Bonus
 ;
 1642 "CORUSCANT"
-1643 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1643 "As the Republic struggles to deal with the Separatist threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
 1644 "On the city planet Coruscant, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 1645 "It’s the desperate, ruthless life of a world in turmoil...."
 
@@ -1815,14 +2028,14 @@
 ;Episode III Character Bonus
 ;
 1646 "MUSTAFAR"
-1647 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1647 "As the Republic struggles to deal with the Separatist threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
 1648 "On the volcanic Mustafar system in the outer rim, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 1649 "It’s the desperate, ruthless life of a world in turmoil...."
 ;
 ;Episode III Vehicle Bonus
 ;
 1650 "KASHYYYK"
-1651 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1651 "As the Republic struggles to deal with the Separatist threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
 1652 "On the Wookiee homeworld of Kashyyyk, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 1653 "It’s the desperate, ruthless life of a world in turmoil...."
 
@@ -1862,6 +2075,27 @@
 1676	"Tilt controller Left/Right to steer"
 1677	"Tilt controller Up/Down to go fast or slow"
 1678	"Tilt controller to move vehicle"
+
+1679 ""
+1680 ""
+1681 ""
+1682 ""
+1683 ""
+1684 ""
+1685 ""
+1686 ""
+1687 ""
+1688 ""
+1689 ""
+1690 ""
+1691 ""
+1692 ""
+1693 ""
+1694 ""
+1695 ""
+1696 ""
+1697 ""
+1698 ""
 
 ;
 ;Online messages
@@ -1934,6 +2168,42 @@
 1762	"Your gamer profile is not signed in to Xbox LIVE."
 1763	"You do not have sufficient Xbox LIVE privileges to play online multiplayer games."
 
+1364 ""
+1365 ""
+1366 ""
+1367 ""
+1368 ""
+1369 ""
+1370 ""
+1371 ""
+1372 ""
+1373 ""
+1374 ""
+1375 ""
+1376 ""
+1377 ""
+1378 ""
+1379 ""
+1380 ""
+1381 ""
+1382 ""
+1383 ""
+1384 ""
+1385 ""
+1386 ""
+1387 ""
+1388 ""
+1389 ""
+1390 ""
+1391 ""
+1392 ""
+1393 ""
+1394 ""
+1395 ""
+1396 ""
+1397 ""
+1398 ""
+1399 ""
 
 
 ; Wii hints
@@ -1948,7 +2218,11 @@
 ;instead of 613
 1804	"Press [ACTION] or hold the Wii Remote horizontally to dodge or deflect blaster bolts."
 
+; 1805-1899 "" 
+
 1900	"Arcade"
+
+; 1901-1999 ""
 
 ; Indy Demo	
 2001	"Some objects can be carried. Press [SPECIAL] to pick them up."

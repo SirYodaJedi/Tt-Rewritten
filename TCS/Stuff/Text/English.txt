@@ -1,0 +1,1961 @@
+﻿;
+; Game Name
+;
+;
+20 	"LEGO Star Wars: The Complete Saga"
+;
+; LSW II Mission names - Note now 11-20 since LSWI missions wi
+;
+35 "MISSION 11: R2-D2"
+36 "MISSION 12: Obi-Wan Kenobi"
+37 "MISSION 13: Chewbacca"
+38 "MISSION 14: Princess Leia"
+39 "MISSION 15: Admiral Ackbar"
+40 "MISSION 16: Yoda"
+41 "MISSION 17: C-3PO"
+42 "MISSION 18: Lando Calrissian"
+43 "MISSION 19: Luke Skywalker"
+44 "MISSION 20: Han Solo"
+;
+; Demo only
+;
+45 "Bonus characters available in this demo:"
+46 "%s - Collect %s LEGO Studs"
+47 "Plus, you'll also get secret codes to unlock these characters in the full game."
+48 "Check the 'Hints' option in the pause menu for tips on how to find hidden LEGO Studs."
+;
+; Miscellaneous/temporary
+;
+49 "Mission complete"
+50 "Challenge complete"
+51 "The Story So Far"
+52 "A long time ago in a galaxy far, far away...."
+53 "To be continued..."
+54 "Out of time"
+55 "Mos Eisley Cantina"
+56 "Exit to Mos Eisley Cantina?"
+57 "Continue Story"
+58 "Locked"
+59 "Characters"
+60 "Chapter"
+61 "Bonus unlocked"
+62 "Best time"
+63 "High score"
+64 "New best time"
+65 "New high score"
+66 "Super Story"
+67 "Character Bonus"
+68 "Minikit Bonus"
+69 "Level complete"
+70 "Free Play unlocked"
+71 "Super Story unlocked"
+72 "No new best time"
+73 "No new high score"
+74 "Super Story complete"
+75 "All minikits built"
+76 "Change Character"
+77 "True Jedi"
+78 "Finish Story"
+79 "Unlocked"
+80 "Power Brick"
+81 "Swap"
+82 "Save And Exit"
+83 "Random"
+84 "Winner!"
+85 "Stranger"
+86 "Confirm"
+87 "Double Score Zone!"
+88 "Available to buy"
+89 "Hints"
+90 "Unlock"
+91 "Bonus character unlocked"
+92 "Fill the bar at the top of the screen for a stud bonus."
+93 "Jump from vehicles and creatures to high-up areas."
+94 "Blow away sand with your engines to reveal hidden grates."
+95 "See if you can find someone to buy your landspeeder."
+96 "Destroy silver objects with Greedo's thermal detonators."
+97 "Jawas can sneak through access panels to secret areas."
+98 "All studs collected"
+99 "Challenge"
+
+;
+; Character names
+;
+100 "Princess Leia"
+101 "Princess Leia (Hoth)"
+102 "Rebel Trooper"
+103 "R2-D2"
+104 "C-3PO"
+105 "Obi-Wan Kenobi"
+106 "The Emperor"
+107 "Darth Vader"
+108 "Tusken Raider"
+109 "Yoda"
+110 "Gonk Droid"
+111 "Stormtrooper"
+112 "Luke Skywalker (Bespin)"
+113 "Luke Skywalker (Endor)"
+114 "Luke Skywalker (Jedi)"
+115 "Luke Skywalker (Tatooine)"
+116 "Han Solo"
+117 "Lando Calrissian"
+118 "X-wing"
+119 "Y-wing"
+120 "Snowspeeder"
+121 "Millennium Falcon"
+122 "Speeder Bike"
+123 "TIE Fighter"
+124 "Chewbacca"
+125 "Jawa"
+126 "Snowtrooper"
+127 "Beach Trooper"
+128 "Luke Skywalker (Stormtrooper)"
+129 "Han Solo (Stormtrooper)"
+130 "Death Star Trooper"
+131 "TIE Fighter Pilot"
+132 "Sandtrooper"
+133 "Scout Trooper"
+134 "Imperial Officer"
+135 "Imperial Shuttle Pilot"
+136 "Boba Fett"
+137 "Ben Kenobi"
+138 "Princess Leia (Bespin)"
+139 "Speeder Bike (Snow)"
+140 "Jango Fett"
+141 "General Grievous"
+142 "Darth Maul"
+143 "Mace Windu"
+144 "Mace Windu (Episode III)"
+145 "Grievous' Bodyguard"
+146 "Droideka"
+147 "Mouse Droid"
+148 "R4-P17"
+149 "Battle Droid"
+150 "Battle Droid (Commander)"
+151 "Battle Droid (Geonosis)"
+152 "Battle Droid (Security)"
+153 "TC-14"
+154 "Wookiee"
+155 "Chancellor Palpatine"
+156 "Obi-Wan Kenobi (Episode III)"
+157 "Obi-Wan Kenobi (Jedi Master)"
+158 "Padmé"
+159 "Padmé (Battle)"
+160 "Padmé (Clawed)"
+161 "Padmé (Geonosis)"
+162 "Queen Amidala"
+163 "Super Battle Droid"
+164 "Ki-Adi Mundi"
+165 "Kit Fisto"
+166 "Luminara"
+167 "Shaak Ti"
+168 "Clone"
+169 "Clone (Episode III)"
+170 "Clone (Episode III, Pilot)"
+171 "Commander Cody"
+172 "Clone (Episode III, Swamp)"
+173 "Clone (Episode III, Walker)"
+174 "Disguised Clone"
+175 "Anakin Skywalker (Boy)"
+176 "Boba Fett (Boy)"
+177 "Geonosian"
+178 "Anakin Skywalker (Jedi)"
+179 "Anakin Skywalker (Padawan)"
+180 "Droid 1"
+181 "Captain Panaka"
+182 "Jar Jar Binks"
+183 "PK Droid"
+184 "Royal Guard"
+185 "Gamorrean Guard"
+186 "Count Dooku"
+187 "Qui-Gon Jinn"
+188 "Droid 2"
+189 "Slave 1"
+190 "Rebel Pilot"
+191 "Han Solo (frozen in carbonite)"
+192 "Rebel Trooper (Hoth)"
+193 "TIE Interceptor"
+194 "Princess Leia (Boushh)"
+195 "Grand Moff Tarkin"
+196 "Han Solo (Skiff)"
+197 "Han Solo (Hood)"
+198 "Han Solo (Hoth)"
+199 "Luke Skywalker (Pilot)"
+200 "Luke Skywalker (Dagobah)"
+201 "Ugnaught"
+202 "Princess Leia (Slave)"
+203 "Princess Leia (Endor)"
+204 "Stranger 1"
+205 "Stranger 2"
+206 "Greedo"
+207 "Imperial Spy"
+208 "TIE Fighter (Darth Vader)"
+209 "Bib Fortuna"
+210 "Skiff Guard"
+211 "Womp Rat"
+212 "Rebel Friend"
+213 "Droid 3"
+214 "Droid 4"
+215 "Lobot"
+216 "Bespin Guard"
+217 "Imperial Guard"
+218 "Ben Kenobi (Ghost)"
+219 "Palace Guard"
+220 "IG-88"
+221 "Imperial Shuttle"
+222 "Ewok"
+223 "Lando (Palace Guard)"
+224 "Luke Skywalker (Hoth)"
+225 "Princess Leia (Prisoner)"
+226 "Han Solo (Endor)"
+227 "Captain Antilles"
+228 "TIE Bomber"
+229 "Admiral Ackbar"
+230 "Bossk"
+231 "Dengar"
+232 "Wicket"
+233 "4-LOM"
+234 "Anakin Skywalker (Ghost)"
+235 "Yoda (Ghost)"
+236 "Imperial Probe Droid"
+237 "Rebel Engineer"
+238 "Skeleton"
+239 "AT-AT Driver"
+240 "Imperial Engineer"
+241	"Pit Droid"
+242 	"Boss Nass"
+243	"Zam Wesell"
+244 	"Watto"
+245 	"Indiana Jones"
+246 	"Satipo"
+247 	"Jock"
+248 	"Belloq"
+249 	"Hovitos Tribesman"
+250 	"Barranca"
+251 "Lama Su"
+252 "Taun We"
+253 "Captain Tarpals"
+254 "R2-Q5"
+255 "Aayla Secura"
+256 "Plo Koon"
+257 "Darth Plagueis"
+258 "Anakin's Speeder"
+259 "Anakin's Speeder (Green)"
+260 "Naboo Starfighter"
+261 "Naboo Starfighter (Blue)"
+262 "Republic Gunship"
+263 "Republic Gunship (Green)"
+264 "Anakin's Pod"
+265 "Anakin's Pod (Green)"
+266 "Jedi Starfighter (Yellow)"
+267 "Jedi Starfighter (Red)"
+268 "Naboo Starfighter (Green)"
+269 "Dexter Jettster"
+270 "Sebulba's Pod"
+271 "Droid Trifighter"
+272 "Clone Arcfighter"
+273 "Vulture Droid"
+274 "Buzz Droid"
+275 "Wampa"
+276 "Rancor"
+277 "Gungan"
+278 	"Training Remote"
+
+; LSW I Mission names
+;
+280 	"MISSION 1: Qui-Gon Jinn"
+281 	"MISSION 2: Queen Amidala"
+282 	"MISSION 3: Jar Jar Binks"
+283 	"MISSION 4: Mace Windu"
+284 	"MISSION 5: Kit Fisto"
+285 	"MISSION 6: Luminara"
+286 	"MISSION 7: Ki-Adi Mundi"
+287 	"MISSION 8: Rebel Trooper"
+288 	"MISSION 9: ShaakTi"
+289 	"MISSION 10: Commander Cody"
+
+;
+; New game text
+;
+295	"Power Up"
+296 	"Poo Money"
+297 	"Stud Magnet"
+298 	"Beep Beep"
+299 	"Exit Without Saving"
+300 "Bounty"
+;
+; Mission 11
+;
+301 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
+302 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
+303 "A band of vicious Bounty Hunters has come together to execute Jabba’s scheme. Their first target: R2-D2, a lowly droid made valuable by the secret information he contains, high above Tatooine on the Rebel Blockade Runner...."
+;
+; Mission 12
+;
+304 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
+305 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
+306 "Their next target: the legendary Jedi Knight Obi-Wan Kenobi, now an old man hidden somewhere on the planet Tatooine...."
+;
+; Mission 13
+;
+307 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
+308 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
+309 "Their next target: the courageous Wookiee Chewbacca, last seen in the shady alleys of Mos Eisley Spaceport...."
+;
+; Mission 14
+;
+310 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
+311 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
+312 "Their next target: the Alderaan Senator Princess Leia, currently a guest of Darth Vader on the mighty Death Star battle station...."
+;
+; Mission 15
+;
+313 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
+314 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
+315 "Their next target: the Rebel Commander Admiral Ackbar, stationed on the Rebel base of Hoth...."
+;
+; Mission 16
+;
+316 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
+317 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
+318 "Their next target: Yoda, a Jedi Master forced into hiding when the Republic collapsed, recently spotted on the forest moon of Endor...."
+;
+; Mission 17
+;
+319 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
+320 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
+321 "Their next target: a humble protocol droid whose knowledge of Rebel personnel makes him a valuable asset - C-3PO, last seen in Cloud City...."
+;
+; Mission 18
+;
+322 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
+323 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
+324 "Their next target: Lando Calrissian, the Baron-Administrator of Cloud City, with known Rebel sympathies...."
+;
+; Mission 19
+;
+325 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
+326 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
+327 "Their next target: Luke Skywalker, the great Jedi hero of the Alliance, last seen in the shady alleys of Mos Eisley Spaceport...."
+;
+; Mission 20
+;
+328 "The vile gangster Jabba the Hutt plans to kidnap leading figures in the Rebel Alliance, threatening to hand them over to Imperial forces unless a ransom is paid."
+329 "Naturally, the evil Hutt intends to take the ransom money, trade his prisoners to the Imperials regardless, and pocket a double bounty."
+330 "Their final target: Han Solo, a former smuggler turned Alliance hero, stationed on the Rebel base of Hoth...."
+;
+331 "Gold Brick"
+332 "Gold Bricks"
+;
+333 	"Edit Name"
+334 	"Use Edit Name"
+335 	"Use Auto Name"
+
+336 	"Trailers"
+337 	"BIONICLE Heroes"
+338 	"Star Wars"
+339 	"Thrillville"
+340 	"Final chapter locked"
+341 	"Episode I-III characters purchased"
+342 "You didn't collect all 10 canisters!"
+343 "Next chapter locked"
+344 "Progress since last saving will be lost."
+;@@
+345 "Bounty Hunter Missions"
+346 "Story Clips"
+347 "Clip %i"
+348 	"Intro"
+349 	"Midtro"
+350 	"Outro"
+351 	"Ending"
+
+;
+; New mini-kit names
+;
+380 "Millennium Falcon"
+381 "X-wing"
+382 "TIE Interceptor"
+383 "Imperial Shuttle"
+384 "Slave 1"
+385 "TIE Advanced"
+386 "TIE Fighter"
+387 "Sandcrawler"
+388 "AT-ST"
+389 "AT-AT"
+390 "Star Destroyer"
+391 "Y-wing"
+392 "Snowspeeder"
+393 "Land Speeder"
+394 "Sail Barge"
+395 "Desert Skiff"
+396 "Cloud Car"
+397 "TIE Bomber"
+398 "Super Star Destroyer"
+399 "Zam's Airspeeder"
+
+;
+; Text crawls - use up to 3 paragraphs, max 256 characters each...
+;
+
+; This is to replace paragraph 2 of BlockadeRunner crawl in PAL...
+;??? "During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the Death Star, an ;armoured space station with enough power to destroy an entire planet."
+
+;
+; Episode IV
+;
+
+; Blockade Runner
+400 "It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire."
+401 "During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the Death Star, an armored space station with enough power to destroy an entire planet."
+402 "Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy...."
+
+; Tatooine
+403 "Darth Vader searches in vain for the secret Rebel plans on Princess Leia’s starship. The droid R2-D2 has escaped with the Death Star blueprints to the planet Tatooine below."
+404 "But R2-D2, along with his companion C-3PO, has been captured by Jawas - small scavenger creatures who trade in mechanical scrap."
+405 "Young Luke Skywalker, unaware of the great destiny which lies before him, is looking for droids to help with work on his uncle’s moisture farm. As he approaches the Jawas’ sandcrawler, his life is about to change forever...."
+
+; Mos Eisley
+406 "In search of a pilot who can take them to the distant planet of Alderaan, Luke Skywalker and old Ben Kenobi journey by landspeeder to Mos Eisley spaceport."
+407 "Here, among the most dangerous and reckless elements of Tatooine society, they hope to find someone brave or foolhardy enough to help in their quest to deliver R2-D2's secret data to the Rebel Alliance. But Imperial forces are everywhere...."
+408
+
+; Death Star Rescue
+409 "Imprisoned in the Death Star, Princess Leia still refuses to reveal the location of the Rebel Base to the evil Darth Vader."
+410 "Meanwhile, Luke Skywalker and Obi-Wan Kenobi have commissioned Han Solo to take them to Leia’s home planet of Alderaan. Escaping from Imperial forces on Tatooine, they make the jump through hyperspace."
+411 "But Alderaan has disappeared, its population a victim of Darth Vader’s impatience - and in its place, they find only the deadly shadow of the Death Star...."
+
+; Death Star Escape
+412 "Luke Skywalker, Han Solo and Chewbacca have rescued Princess Leia from the clutches of Darth Vader and his Imperial forces - but must now find a way out of the Death Star."
+413 "Aided by the droid R2-D2, who can interface remotely with the Death Star control systems, they battle their way to the Millennium Falcon."
+414 "Meanwhile, the Jedi Knight Obi-Wan Kenobi moves closer to his final destiny...."
+
+; Death Star Battle
+415 "With the Death Star plans in their hands at last, the Rebel Alliance plans a desperate assault on the Imperial space station."
+416 "But a hidden homing beacon attached to the Millennium Falcon has led Darth Vader to the Rebel’s secret base on the moon of Yavin IV."
+417 "The moon will soon be in range of the mighty Death Star’s superlaser. Now, a small band of fearless pilots bear with them the hopes of an entire galaxy...."
+
+;
+; Episode V
+;
+
+; Hoth Battle
+418 "It is a dark time for the Rebellion. Although the Death Star has been destroyed, Imperial troops have driven the Rebel forces from their hidden base and pursued them across the galaxy."
+419 "Evading the dreaded Imperial Starfleet, a group of freedom fighters led by Luke Skywalker has established a new secret base on the remote ice world of Hoth."
+420 "The evil lord Darth Vader, obsessed with finding young Skywalker, has dispatched thousands of remote probes into the far reaches of space...."
+
+; Hoth Escape
+421 "Imperial forces have mounted a relentless assault on the Rebel base on Hoth. The Rebel fighters have held out bravely, but the enemy is overwhelming."
+422 "In the Echo base command center, carved deep into the ice of the frozen planet, Han Solo and Princess Leia monitor the evacuation of Rebel personnel."
+423 "But as stormtroopers breach the outer defenses, they must quickly find an escape route for themselves...."
+
+; Asteroid Chase
+424 "Led by the evil Darth Vader, Imperial forces have overrun the Rebel base on the ice planet Hoth."
+425 "Having bravely stalled the enemy advance, Luke Skywalker has made his escape by X-wing fighter."
+426 "And as the last Rebel transports lift off from the planet, Han Solo in the Millennium Falcon engages the Imperial ships above...."
+
+; Dagobah
+427 "Han Solo and Princess Leia have finally evaded the Imperial fleet in the Millennium Falcon, and are on their way to Cloud City - secretly followed by the bounty hunter Boba Fett."
+428 "Meanwhile, following instructions relayed to him by the spectral form of Obi-Wan Kenobi, Luke Skywalker has piloted his X-wing to the forgotten planet of Dagobah."
+429 "Accompanied by his trusty droid R2-D2, Luke heads towards the murky swamp world in search of his destiny...."
+
+; Cloud City Escape
+430 "Escaping from the Rebel defeat on Hoth, Han Solo has sought sanctuary on Cloud City, high above the planet Bespin."
+431 "His old friend Lando Calrissian is now Baron-Administrator of this self-governing colony, and Han hopes for a warm welcome."
+432 "But in this time of galactic upheaval, nothing is as it seems...."
+
+; Cloud City Trap
+433 "Barely a few weeks into his Jedi training with Yoda, Luke Skywalker has had a vision of his friends captured by Darth Vader."
+434 "Against Yoda’s advice, the impetuous young Jedi sets his X-wing fighter on a course for Cloud City."
+435 "Here he hopes to find Han Solo and Princess Leia - little guessing in his haste that he himself is the true target of Vader’s trap...."
+
+;
+; Episode VI
+;
+
+; Jabba's Palace
+436 "Luke Skywalker has returned to his home planet of Tatooine in an attempt to rescue his friend Han Solo from the clutches of the vile gangster Jabba the Hutt."
+437 "Little does Luke know that the Galactic Empire has secretly begun construction on a new armored space station even more powerful than the first dreaded Death Star."
+438 "When completed, this ultimate weapon will spell certain doom for the small band of Rebels struggling to restore freedom to the galaxy...."
+
+; Sarlacc Pit
+439 "Work continues on the new Death Star, and the future of the galaxy appears increasingly bleak. On Tatooine, Luke Skywalker is in the grip of Jabba the Hutt, along with Han Solo, Chewbacca and Princess Leia."
+440 "Jabba takes his prisoners across the Tatooine dunes to the Great Pit of Carkoon, where he plans to feed them to the fearsome Sarlacc beast."
+441 "But, even with back-up from Boba Fett, Jabba has severely underestimated the powers of a Jedi...."
+
+; Speeder Chase
+442 "The Rebel Alliance has learned of the new Death Star, and launches a daring plan to destroy this evil weapon before its construction can be completed."
+443 "The Rebel fleet is readied for an assault, and a small strike unit lands on the nearby forest moon of Endor."
+444 "Led by Luke Skywalker and Han Solo, their mission is to destroy the shield generator which protects the deadly Imperial space station...."
+
+; Endor Battle
+445 "As the Rebel fleet draws closer to the Death Star, Luke Skywalker has turned himself over to Imperial forces and heads to the Death Star for a final confrontation with Darth Vader. The commando team led by Han Solo makes its way towards the Imperial shield generator on Endor."
+446 "But the Rebel forces are lured into a trap. Although it appears incomplete, the Death Star is already fully functional."
+447 "And a deadly surprise lies in wait for the intrepid Rebel strike team...."
+
+; Death Star 2 Battle
+448 "With help from the Ewoks, the Rebels have finally managed to destroy the Death Star shield generator on Endor."
+449 "In the sky above, the Rebel fleet has come under intense fire from Imperial craft and the Death Star itself. Many ships have been destroyed."
+450 "But General Lando Calrissian is now able to lead the final assault on the Empire’s ultimate weapon, and pilot the Millennium Falcon deep into its dark heart...."
+
+; Emperor Fight
+451 "As the battle between Imperial and Rebel forces rages around the second Death Star, Luke Skywalker confronts Darth Vader - his father, once Anakin Skywalker."
+452 "From boy slave on Tatooine, to hero of the Clone Wars, to Sith Lord, feared throughout the galaxy, Anakin Skywalker’s path has been dark indeed."
+453 "In front of Emperor Palpatine, his villainous master, Vader must now face his son, and reclaim his fate...."
+
+;
+; Bonus
+;
+
+; Bonus
+454 "In an infinite universe, all things are possible."
+455 "The epic struggle of the Skywalker family sends turmoil throughout the Force."
+456 "And in ANOTHER galaxy far, far away, though, echoes of this drama live on, and a new world awakens...."
+
+;
+; Episode I
+;
+
+; Negotiations
+457 "Turmoil has engulfed the Galactic Republic! With a blockade of deadly battleships, the Trade Federation has stopped all shipping to the small planet of Naboo."
+458 "The Supreme Chancellor has secretly dispatched Jedi Knights Qui-Gon Jinn and Obi-Wan Kenobi to settle the conflict...."
+
+; Invasion Of Naboo
+459 "The Trade Federation has launched a full-scale attack on the peaceful world of Naboo."
+460 "Hiding aboard the landing craft, Qui-Gon Jinn and Obi-Wan Kenobi have secretly hitched a ride with the invasion force. Now they must make contact with local forces - before it is too late...."
+
+; Escape From Naboo
+461 "The Gungan ruler Boss Nass has refused to help the people of Naboo. Qui-Gon Jinn and Obi-Wan Kenobi have left his underwater city for the Royal Palace in Theed."
+462 "As Trade Federation battle droids seize control of the Naboo capital city, Queen Amidala and Captain Panaka, her loyal protector, are powerless to repel the invasion...."
+
+; Mos Espa Podrace
+463 "Queen Amidala and her Jedi protectors have fled Naboo, heading for Coruscant. They plan to inform the Galactic Senate of the Trade Federation invasion."
+464 "However, the Royal Starship's hyperdrive is damaged in the escape, and they have been forced to land on the remote planet of Tatooine for repairs...."
+
+; Retake Theed Palace
+465 "On Coruscant, Queen Amidala has found the Galactic Senate corrupted by Trade Federation influence, and mired in bureaucracy."
+466 "Frustrated, she has returned home to Naboo. Together with Qui-Gon Jinn, Obi-Wan Kenobi, Captain Panaka, R2-D2 and the young podracer from Tatooine, Anakin Skywalker, Queen Amidala now plans to infiltrate the Royal Palace and capture the evil Trade Federation Viceroy...."
+
+; Darth Maul
+467 "The Trade Federation army has been neutralized by Anakin Skywalker, but the battle continues in the Royal Palace."
+468 "Qui-Gon Jinn and Obi-Wan Kenobi have one more enemy to face...."
+
+;
+; Episode II
+;
+
+;@@@
+; Discovery On Kamino
+469 	"As Separatist activity continues to destabilize the galaxy, Obi-Wan Kenobi investigates the attempted assassination of Senator Padmé Amidala."
+470 	"With his astromech droid R4-P17, the Jedi Knight tracks the source of a poisoned dart to the remote world of Kamino...."
+
+; Droid Factory
+471 "Obi-Wan Kenobi has tracked the bounty hunter Jango Fett to the planet of Geonosis. This rocky world, known for its droid production factories, forms the base of operations for the Separatist movement."
+472 "While Anakin Skywalker guards Senator Padmé Amidala, Obi-Wan lands his Jedi Starfighter on the planet's surface...."
+
+; Jedi Battle
+473 "In their attempt to rescue Obi-Wan Kenobi on the planet Geonosis, Anakin Skywalker and Padmé Amidala have been captured by Jango Fett."
+474 "Obi-Wan has sent a distress signal to the Jedi Council. But hopes of rescue seem remote, as the evil Separatist leader Count Dooku oversees their execution...."
+
+; Gunship Cavalry
+475 "The Grand Army of the Republic has been called into action. Led by Mace Windu and Yoda, the new Clone forces clash with the Separatist droid armies on the planet Geonosis."
+476 "Obi-Wan Kenobi and Anakin Skywalker engage with the enemy, as they pursue Count Dooku in their Republic attack gunship...."
+
+; Count Dooku
+477 "As the battle rages between the Clone forces of the Republic and the Separatist droid army, the Separatist leader Count Dooku flees to his secret hangar."
+478 "Obi-Wan Kenobi and Anakin Skywalker follow closely behind, prepared for a final showdown with the Sith Lord...."
+
+;
+; Episode III
+;
+
+; Battle Over Coruscant
+479 "The Republic is crumbling under a Separatist assault led by Count Dooku and General Grievous. In a stunning move, Separatist forces have swept into Coruscant and kidnapped Supreme Chancellor Palpatine."
+480 "As the Droid Army attempts to flee with their hostage, Obi-Wan Kenobi and Anakin Skywalker lead a desperate mission to rescue the Chancellor...."
+
+; Chancellor In Peril
+481 "High above the planet Coruscant, a deadly battle rages between Separatist forces and the Army of the Republic."
+482 "On the Separatist flagship, Count Dooku and General Grievous hold Chancellor Palpatine captive. Crashing their Jedi Starfighters into the main hangar, Obi-Wan Kenobi and Anakin Skywalker are surrounded by hostile droid forces...."
+
+; General Grievous
+483 "Obi-Wan Kenobi and Anakin Skywalker have saved Chancellor Palpatine. But his captor, General Grievous, has escaped."
+484 "The Jedi Council assigns Obi-Wan Kenobi the task of hunting down Grievous, who is hiding on the sinkhole world of Utapau...."
+
+; Defence Of Kashyyyk
+485 "Obi-Wan Kenobi has taken care of General Grievous, but the Clone Wars continue. Across the galaxy, Jedi Knights lead the Army of the Republic into battle against Separatist forces."
+486 "Jedi Master Yoda fights on the Wookiee planet of Kashyyyk. But the Sith Lord Darth Sidious is about to reveal himself, and draw a new darkness over the galaxy...."
+
+; Ruin Of The Jedi
+487 "Palpatine has issued Order 66, turning the Clone Army against the Jedi. Across the galaxy, clones have gunned down their Jedi generals."
+488 "Yoda and Obi-Wan Kenobi have survived, and head for the Jedi Temple on Coruscant. They hope to find some answers to this shocking turn of events within the Jedi Archives...."
+
+; Darth Vader
+489 "Anakin Skywalker, once the young Podracing champion of Tatooine, Padawan to  Obi-Wan Kenobi and hero of the Clone Wars, has finally given in to his secret emotions and fallen to the Dark Side."
+490 "His wife Padmé rushes to the volcanic world of Mustafar, hoping to turn Anakin back from his dark path. She has no idea that Anakin's former master Obi-Wan is hiding aboard her ship...."
+
+;
+; Extras
+;
+
+; Anakin's Flight
+491 "As the battle for Naboo rages on the planet's surface, a desperate assault has been launched on the Trade Federation battleships above."
+492 "Anakin Skywalker finds himself at the controls of an N-1 Starfighter, heading for the Droid Control Ship...."
+
+; Bounty Hunter Pursuit
+493 "The Galactic Republic plunges ever deeper into crisis. Count Dooku leads a Separatist movement which threatens the future of the Republic."
+494 "On the glittering city-planet of Coruscant, Obi-Wan Kenobi and Anakin Skywalker guard Senator Padmé Amidala as mysterious assassins move against her...."
+
+; Lost Temple
+495 "Lost Temple text intro. Lost Temple text intro. Lost Temple text intro. Lost Temple text intro. Lost Temple text intro. Lost Temple text intro. Lost Temple text intro."
+496 "Lost Temple text intro. Lost Temple text intro. Lost Temple text intro. Lost Temple text intro. Lost Temple text intro. Lost Temple text intro...."
+
+;Arcade Mode
+497	"The galaxy is in turmoil. Lives are engulfed by conflict."
+498	"Former friends now find themselves adversaries, training to improve their skills in preparation for the dark times ahead...."
+
+;
+; Episode IV text
+;
+500 "Episode IV"
+501 "A NEW HOPE"
+502 "SECRET PLANS"
+503 "THROUGH THE JUNDLAND WASTES"
+504 "MOS EISLEY SPACEPORT"
+505 "RESCUE THE PRINCESS"
+506 "DEATH STAR ESCAPE"
+507 "REBEL ATTACK"
+508 "MOS EISLEY"
+509 "DEATH STAR"
+510 "Episode IV complete"
+511 "EPISODE IV BONUS"
+;
+512 "While the Rebel Alliance struggles heroically with the oppressive Empire, and as Luke Skywalker moves closer to his epic destiny, daily life goes on across the galaxy."
+513 "In the sprawling alleyways of Mos Eisley, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+514 "It’s the desperate, ruthless life of a world in turmoil...."
+;
+515 "While the Rebel Alliance struggles heroically with the oppressive Empire, and as Luke Skywalker moves closer to his epic destiny, daily life goes on across the galaxy."
+516 "On the deadly surface of the Death Star, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+517 "It’s the desperate, ruthless life of a world in turmoil...."
+
+;
+; Episode V text
+;
+520 "Episode V"
+521 "THE EMPIRE STRIKES BACK"
+522 "HOTH BATTLE"
+523 "ESCAPE FROM ECHO BASE"
+524 "FALCON FLIGHT"
+525 "DAGOBAH"
+526 "BETRAYAL OVER BESPIN"
+527 "CLOUD CITY TRAP"
+528 "BESPIN"
+529 "HOTH"
+530 "Episode V complete"
+531 "EPISODE V BONUS"
+;
+532 "While the Rebel Alliance struggles heroically with the oppressive Empire, and as Luke Skywalker moves closer to his epic destiny, daily life goes on across the galaxy."
+533 "In the dangerous corridors of Cloud City, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+534 "It’s the desperate, ruthless life of a world in turmoil...."
+;
+535 "While the Rebel Alliance struggles heroically with the oppressive Empire, and as Luke Skywalker moves closer to his epic destiny, daily life goes on across the galaxy."
+536 "On the frozen planet Hoth, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+537 "It’s the desperate, ruthless life of a world in turmoil...."
+
+;
+; Episode VI text
+;
+540 "Episode VI"
+541 "RETURN OF THE JEDI"
+542 "JABBA'S PALACE"
+543 "THE GREAT PIT OF CARKOON"
+544 "SPEEDER SHOWDOWN"
+545 "THE BATTLE OF ENDOR"
+546 "INTO THE DEATH STAR"
+547 "JEDI DESTINY"
+548 "ENDOR"
+549 "ENDOR"
+550 "Episode VI complete"
+551 "EPISODE VI BONUS"
+;
+552 "While the Rebel Alliance struggles heroically with the oppressive Empire, and as Luke Skywalker moves closer to his epic destiny, daily life goes on across the galaxy."
+553 "In the battle-torn forest of Endor, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+554 "It’s the desperate, ruthless life of a world in turmoil...."
+;
+555 "While the Rebel Alliance struggles heroically with the oppressive Empire, and as Luke Skywalker moves closer to his epic destiny, daily life goes on across the galaxy."
+556 "In the battle-torn forest of Endor, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+557 "It’s the desperate, ruthless life of a world in turmoil...."
+
+;
+; Episode I text
+;
+559 "POD RACE (ORIGINAL)"
+560 "Episode I"
+561 "THE PHANTOM MENACE"
+562 "NEGOTIATIONS"
+563 "INVASION OF NABOO"
+564 "ESCAPE FROM NABOO"
+565 "MOS ESPA POD RACE"
+566 "RETAKE THEED PALACE"
+567 "DARTH MAUL"
+568 "Episode I complete"
+569 	"EPISODE I BONUS"
+
+;
+; Extras (can only go up to 574)
+;
+570 	"ANAKIN'S FLIGHT"
+571 	"BOUNTY HUNTER PURSUIT"
+572 	"LEGO CITY"
+573 	"LOST TEMPLE"
+
+
+;
+; Bonus text
+;
+575 	"NEW TOWN"
+
+;
+; Old mini-kit names...
+;
+580 "Republic Cruiser"
+581 "Gungan Bongo"
+582 "Royal Starship"
+583 "Sebulba's Pod"
+584 "Naboo Starfighter"
+585 "Sith Infiltrator"
+586 "Jedi Starfighter"
+587 "Droideka"
+588 "Republic Gunship"
+589 "AT-TE"
+590 "Solar Sailor"
+591 "Drop Ship"
+592 "Emergency Ship"
+593 "Jedi Starfighter (Episode III)"
+594 "Wookiee Cat"
+595 "ARC Fighter" // a.k.a MINIE3XWING
+596 "V wing"
+
+;
+; Hints - slots 600-659
+;
+
+;
+; Automated (done)
+;
+600 "In Free Play, press [TOGGLELEFT] or [TOGGLERIGHT] to choose a different character."
+601 "Hold [SPECIAL] to use the Force on glowing LEGO objects."
+602 "Walk up to friendly characters and press [TAG] to take control of them."
+603 "Regain control of your other characters by moving up to them and pressing [TAG]."
+604 "Approach piles of LEGO and hold [SPECIAL] to build. Only droids cannot build."
+605 "All characters except droids can get into vehicles. Press [TAG] when close."
+606 "You can jump out of a vehicle by pressing [JUMP] or [TAG]."
+607 "Droids can operate LEGO panels. Press [SPECIAL] to activate them."
+608 "Stormtroopers and their superiors can use some control panels. Press [SPECIAL] to activate them."
+609 "Bounty hunters can use some control panels. Press [SPECIAL] to activate them."
+610 "Blaster characters can grapple to other areas. Stand on the red circles and press [SPECIAL]."
+611 "All characters except droids can ride creatures. Press [TAG] when close."
+;
+; Automated (not done yet - need coding and re-writing as appropriate)
+;
+612 "To access some areas, you need to look like a Stormtrooper. Press [SPECIAL] at the hat machine to get a disguise."
+613 "Press [ACTION] to dodge or deflect blaster bolts."
+614 "Shoot the cameras to stop more enemies being alerted to your presence."
+615 "You can push objects that have black and yellow stripes."
+616 "Small characters can crawl through access hatches. Press [SPECIAL] to do this."
+617 "Only Stormtroopers can access these areas."
+618 "Only Bounty Hunters can access these areas."
+619 "Only Sith characters can use Dark Force objects."
+
+;
+; Hard-coded (generic)
+;
+620	"All Episodes are now unlocked"
+621 "Collect all 10 LEGO canisters in this demo for a secret game code..."
+622 "Congratulations! You've collected all 10 LEGO canisters. Your secret game code is NAH118. Use this in the full game for a special bonus."
+623 "You can toggle to your new character when you come back here in Free Play."
+624 "Congratulations, you've collected a Power Brick! Lightsaber attacks now do twice as much damage."
+625 "This is a Power Brick! Collect one in each level to unlock cheats."
+626 "Collect Gold Bricks in other levels to build this."
+627 "Complete the other levels in this episode."
+628 "Hold [CIRCLE] to build piles of LEGO."
+629 "Collect Gold Bricks in other levels to build this door."
+
+;
+; Shop
+;
+630 "Double-jump and press [SQUARE] when in the air to do a special Jedi attack."
+631 "Press [SQUARE] to attack."
+632 "Press [X] to jump. Press [X] when in the air to double-jump."
+633 "The more LEGO studs you collect, the more things you will be able to buy here."
+634 "Collect all the LEGO canisters in each level to build minikit models. You can view these outside the cantina."
+635 "Many areas of the levels can only be reached by certain characters. Go back to these levels in Free Play, and try to find all the secrets!"
+636 "Once you have defeated an enemy character in a level, you will be able to buy it here. Try to collect all the characters!"
+637 "Astromech droids can hover for a limited time. Press and hold [x] to activate the boosters."
+638 "Watch out for black LEGO objects. Dark Force characters can use the Force on them."
+639 "Free Play mode means you can go back and play a completed level with any character that you have unlocked!"
+640 "To take other characters into the levels in Free Play, simply tag them in the Cantina and go through the door of the level you wish to play."
+641 "Fill up the Jedi meter in each level to receive a gold brick. The more gold bricks you have, the more levels you will be able to unlock!"
+642 "The True Jedi meter appears at the top of the screen in each level. Fill it up by collecting LEGO studs. Take care - you lose studs if you die!"
+643 "Shiny metallic objects can only be destroyed with Bounty Hunter Thermal Detonators."
+
+;
+; More
+;
+;@@
+644 "Complete all the chapters in this episode."
+645 "Complete all previous chapters in this episode."
+646 "You need to complete all three episodes."
+;@@
+647 	"Press [X] to perform a loop and get behind enemy speeders."
+;647 "You can barge speeder bikes from the side if you can get close enough."
+648 "Collect all 10 canisters before time runs out."
+649 "Press [O] to fire torpedos at targeted objects."
+650 "All characters except droids can operate cranes. Press [T] when close to get in."
+651 "While operating a crane, press [S] or [O] to pick things up or drop them."
+652 "Press [T] when Yoda is nearby to learn the ways of the Force."
+653 "Use the AT-AT by pressing [T] on the white platform"
+654 "Press [O] to use your tow cable on targeted objects."
+655 "If an AT-AT is disabled, you can destroy it with a drag bomb."
+656 	"Press [O] to pull levers, if you're not controlling a droid."
+;@@@
+657 "New gold bricks can be found in useful places inside or outside the cantina."
+658 "Remember to search inside and outside the cantina for new gold bricks."
+659 "Gold bricks are used to build useful objects inside or outside the cantina."
+
+;
+; Cheats - slots 660-699
+;
+660 "Hints"
+661 "Enter Code"
+662 "Extras"
+663 "Save not found"
+664 "Invincibility"
+665 "Minikit detector"
+666 "Score x2"
+667 "Super lightsabers"
+668 "Disguise"
+669 "Chewbacca carrying C-3PO"
+670 "Score x4"
+671 "Fertilizer"
+672 "Extra toggle"
+673 "Bounty hunter rockets"
+674 "Use old save"
+675 "Use old characters"
+676 "Score x6"
+677 "Daisy chains"
+678 "Tow Death Star"
+679 "Score x8"
+680 "Score x10"
+681 "Self destruct"
+682 "Super blasters"
+683 "Regenerate hearts"
+684 "Fast build"
+685 "Fast Force"
+686 "Infinite torpedos"
+687 "Tractor beam"
+688 "Super zapper"
+689 "Super Ewok catapult"
+690 "Adaptive difficulty"
+;Currently unused gold brick hints
+691	"Build this door with gold bricks. Collect gold bricks by completing level challenges: level complete, minikit complete and True Jedi achieved."
+692	"You can buy more gold bricks in the shop."
+693	"Some level doors aren't built yet. In order to build them, you need to collect gold bricks."
+694	"The more gold bricks you have, the more levels you will be able to unlock!"
+695	"Collect as many Gold Bricks are you can. You need them to unlock some level doors."
+696	"Press [O] to throw thermal detonators if you're a Bounty Hunter."
+;@@
+697 	"Some Bounty Hunters can use droid access panels."
+698 "Silhouettes"
+699 "Super Gonk"
+;
+; Miscellaneous game text
+;
+700 "Game"
+701 "New Game"
+702 "DEMO"
+703 "Bonus"
+704 "Extra"
+705 "Paused"
+706 "Resume"
+707 "Restart"
+708 "Restart Level?"
+709 "Exit"
+710 "Exit Level?"
+711 "Quit Game?"
+712 "Options"
+713 "Finish!"
+714 "Continue"
+715 "Retry"
+716 "Quit"
+717 "Yes"
+718 "Ready..."
+719 "Go!"
+720 "Win!"
+721 "No"
+722 "On"
+723 "Off"
+724 "Done"
+725 "Accept"
+726 "Select"
+727 "Back"
+728 "Cancel"
+729 "Vibration"
+730 "Surround Sound"
+731 "Sound Volume"
+732 "Sound"
+733 "Music Volume"
+734 "Music"
+735 "Press START"
+736 "Insert controller in port 1"
+737 "Stereo"
+738 "Mono"
+739 "Insert controller in port 2"
+740 "Level"
+741 "Complete!"
+742 "Time"
+743 "Current Game"
+744 "Too Slow!"
+745 "Press START button"
+746 "Press the START button"
+747 "Adjust Screen"
+748 "Screen left/right"
+749 "Screen up/down"
+750 "One or more of the controllers has been disconnected. Please re-connect the controller(s) to continue with the game."
+751 "Memory Card Slot 1"
+752 "Checking the memory card (PS2) in MEMORY CARD slot 1"
+753 "Empty"
+754 "Load"
+755 "Save"
+756 "Delete"
+757 "Load Game"
+758 "Save Game"
+759 "Delete Game"
+760 "No memory card (PS2) in MEMORY CARD slot 1"
+761 "No %s save data present on the memory card (PS2) inserted in MEMORY CARD slot 1"
+762 "Format"
+763 "Overwrite"
+764 "Memory Card is full"
+765 "Confirm Load?"
+766 "Confirm save?"
+767 "Confirm delete"
+768 "Format memory card (PS2)?"
+769 "Do you wish to overwrite previous save?"
+770 "Loading"
+771 "Saving"
+772 "Deleting"
+773 "Formatting"
+774 "Game loaded"
+775 "Game saved"
+776 "Game deleted"
+777 "Failed to load"
+778 "Failed to save"
+779 "Failed to delete"
+780 "Failed to format"
+781 "The memory card (PS2) in MEMORY CARD slot 1 is unformatted"
+782 "Please insert a memory card (PS2) with at least %iKB free into MEMORY CARD slot 1 or you will be unable to save."
+783 "LEGO Star Wars requires %iKB"
+784 "Format Memory Card"
+785 "Formatting complete"
+786 "Insufficient free space"
+787 "Do not remove the controller, memory card (PS2) in MEMORY CARD slot 1, reset, or switch off the console."
+788 "No memory card (PS2) in MEMORY CARD slot 1."
+789 "Insufficient space on the memory card (PS2) in MEMORY CARD slot 1."
+790 "All progress in this level will be lost."
+791 "Paused - press START to resume"
+792 "Games stored on Hard Disk"
+793 "Free blocks"
+794 "Saving game..."
+795 "Unable to load game."
+796 "Damaged save"
+797 "Disc Cover Open"
+798 "Wrong Game Disc"
+799 "No Game Disc"
+800 "Retry Error"
+801 "Fatal Error"
+802 "Licensed by Nintendo"
+803 "Continue without saving"
+804 "Manage Memory Card"
+805 "Wrong device in Slot A. Please insert a Memory Card."
+806 "The Memory Card in Slot A is damaged and cannot be used."
+807 "The Memory Card in Slot A is corrupted and needs to be deleted."
+808 "The Memory Card in Slot A is corrupted and needs to be formatted. Do you want to format?"
+809 "Previously saved data will be lost. Would you like to continue formatting?"
+810 "Failed to format the Memory Card."
+811 "Previously saved data will be lost. Would you like to continue deleting?"
+812 "Failed to delete the Memory Card."
+813 "Once you start the game, you won't be able to save."
+814 "LEGO Star Wars"
+815 "Saved game slots"
+816 "Player 1"
+817 "Player 2"
+818 "The controller in controller port 2 has been removed. Please insert a controller into controller port 2 to continue with the game."
+819 "Drop Out"
+820 "Drop Out Of Game?"
+821 "Landing Ship"
+822 "Character Viewer"
+823 "Story"
+824 "Free Play"
+825 "View Camera"
+826 "Pad 1"
+827 "Pad 2"
+828 "Episode V unlocked"
+829 "Episode VI unlocked"
+830 "Insert controller"
+831 "Replay Story"
+832 "Change"
+833 "Play"
+834 "Buy"
+835 "Loading Game..."
+836 "Load Corrupted"
+837 "OK"
+838 "Slot"
+839 "Present"
+840 "Autosave will now use Game %i on the memory card (PS2) inserted in MEMORY CARD slot 1"
+841 "Do not remove the controller, memory card (PS2) in MEMORY CARD slot 1, reset, or switch off the console whenever you see the icon above on screen."
+842 "The memory card (PS2) in MEMORY CARD slot 1 has been removed."
+843 "Autosave has now been disabled."
+844 "Autosave will be re-enabled when you Load or Save any game."
+845 "Do you want to start the game?"
+;***************************
+846 "All story progress will be lost."
+847 "No space"
+848 "Audio Volume"
+849 "Audio"
+850 "Superkit Piece"
+851 "Minikit"
+852 "Stud Total"
+853 "Studs"
+854 "Overwriting data..."
+855 "Failed to overwrite"
+856 "Widescreen"
+857 "Restart Demo"
+858 "Restart Demo?"
+
+;
+; More GC stuff...
+;
+859 "No Save data present on the Memory Card inserted in Slot A"
+860 "Saving game..."
+861 "Loading game..."
+862 "Failed to Load from the Memory Card in Slot A"
+863 "Failed to Save on the Memory Card in Slot A"
+864 "Failed to Delete the file on the Memory Card in Slot A"
+865 "Failed to Overwrite the file on the Memory Card in Slot A"
+866 "Failed to Create a new file on the Memory Card in Slot A"
+867 "Failed to Format the Memory Card in Slot A"
+868 "Do not touch the Memory Card or the POWER Button."
+869 "No Memory Card found in Slot A."
+870 "The Memory Card in Slot A is corrupted and needs to be Formatted."
+871 "Do you want to Format?"
+872 "%s requires 1 file and %i block to save."
+873 "Checking the Memory Card in Slot A"
+874 "There is not enough free space on the Memory Card in Slot A."
+875 "%s autosaves your progress. When you see this icon"
+876 	"the game is saving to the Memory Card in Slot A. Do not touch the Memory Card or the POWER Button while the icon is displayed."
+877 "The Memory Card in Slot A has been removed or changed."
+878 "Autosave has now been disabled."
+879 "Autosave will be re-enabled when you Load or Save any game."
+880 "Creating file..."
+881 "File creation complete"
+882 "No file found on the Memory Card in Slot A"
+883 "Create a new file on the Memory Card in Slot A?"
+884 "The %s file on Memory Card in Slot A is corrupted. This file needs to be deleted."
+885 "Delete file"
+886 "Formatting the Memory Card in Slot A will erase all previously saved data. Continue?"
+887 "Manage Memory Card"
+888 "The Memory Card in Slot A is damaged and cannot be used."
+889 "The Memory Card in Slot A has been changed."
+890 "Format Memory Card"
+891 "Memory Card in Slot A Successfully Formatted"
+892 "File successfully deleted from Memory Card in Slot A"
+893 "%s uses an Autosave feature."
+894 "If you wish to save game data you must have a Memory Card inserted into Slot A."
+895 "If you remove the Memory Card, Autosave will be disabled."
+896 "To re-enable Autosave, you must re-insert a Memory Card into Slot A and Save or Load game data or turn Autosave on in the Options menu."
+897 "Do you want to cancel the Save?"
+898 "Do you want to cancel the Load?"
+;@@
+899 "Insufficient space on the memory card (PS2) in MEMORY CARD slot 1 for additional Saves. At least %iKB is needed for each additional Save."
+
+;
+; pc installer .......
+;
+900 "DirectX 9.0c Installation starting"
+901 "Setup is almost complete."
+902 "Choose the options you want below."
+903 "Click Finish to continue."
+904 "Click Finish to complete LEGO StarWars Setup."
+905 "I would like to view the README file."
+906 "I would like a desktop shortcut."
+907 "I would like to launch LEGO StarWars."
+
+908 "UnInstall LEGO StarWars"
+
+; pc game menus.....
+
+909 "HARD DISK"
+910 "Exit To Windows"
+911 "Controller Options"
+912 "Video Options"
+
+; pc screen resolution options.....
+
+913 "LOW  640x480"
+914 "MEDIUM  800x600"
+915 "HIGH  1024x768"
+916 "ULTRA  1280x1024"
+917 "LOW  640x480  (CURRENT)"
+918 "MEDIUM  800x600  (CURRENT)"
+919 "HIGH  1024x768  (CURRENT)"
+920 "ULTRA  1280x1024  (CURRENT)"
+
+; pc controller setup.....
+
+921 "CURSOR-MOVE"
+922 "ENTER-SELECT"
+923 "F1-PLAYER 2"
+924 "F1-PLAYER 1"
+925 "CONTROL SETUP PLAYER 1"
+926 "CONTROL SETUP PLAYER 2"
+927 "F2-RESTORE"
+928 "F3-DEFAULT KEYS"
+929 "ESC-PLAY"
+930 "EMPTY SLOT"
+931 "DUPLICATE INPUT WITH PLAYER 2"
+
+; key selection display text....
+
+932 "ESC"
+933 "1"
+934 "2"               
+935 "3"               
+936 "4"               
+937 "5"               
+938 "6"               
+939 "7"               
+940 "8"               
+941 "9"               
+942 "0"               
+
+943 "MINUS"               
+; - on main keyboard 
+
+944 "EQUALS"        
+  
+945 "BACK"                
+; backspace 
+
+946 "TAB"             
+947 "Q"               
+948 "W"               
+949 "E"              
+950 "R"               
+951 "T"               
+952 "Y"               
+953 "U"               
+954 "I"               
+955 "O"               
+956 "P"       
+957 "LBRACKET"
+958 "RBRACKET"        
+
+959 "ENTER"              
+; Enter on main keyboard 
+
+960 "L CTRL"        
+961 "A"               
+962 "S"               
+963 "D"               
+964 "F"               
+965 "G"               
+966 "H"               
+967 "J"               
+968 "K"               
+969 "L"               
+970 "SEMICOLON"       
+971 "APOSTROPHE"      
+
+972 "GRAVE"               
+; accent grave 
+
+973 "L SHIFT"          
+974 "BACKSLASH"       
+975 "Z"               
+976 "X"               
+977 "C"               
+978 "V"               
+979 "B"               
+980 "N"               
+981 "M"               
+982 "COMMA"         
+  
+983 "STOP"    
+; . on main keyboard 
+
+984 "FORE SLASH"               
+; / on main keyboard 
+
+985 "R SHIFT"          
+
+986 "MULT"            
+; * on numeric keypad 
+
+987 "L ALT"               
+; left Alt 
+
+988 "SPACE"           
+989 "CAPLOCK"         
+990 "F1"              
+991 "F2"              
+992 "F3"              
+993 "F4"              
+994 "F5"              
+995 "F6"              
+996 "F7"              
+997 "F8"              
+998 "F9"              
+999 "F10"             
+1000 "NUMLOCK"
+
+1001 "SCROLL LOCK"
+; Scroll Lock 
+
+1002 "NUM 7"         
+1003 "NUM 8"         
+1004 "NUM 9"         
+
+1005 "NUM MINUS"            
+; - on numeric keypad 
+
+1006 "NUM 4"         
+1007 "NUM 5"         
+1008 "NUM 6"         
+
+1009 "NUM ADD"                 
+; + on numeric keypad 
+
+1010 "NUM 1"         
+1011 "NUM 2"         
+1012 "NUM 3"         
+1013 "NUM 0"         
+
+1014 "NUM POINT"             
+; . on numeric kypad 
+
+1017 "OEM_102"
+
+1018 "F11"             
+1019 "F12"      
+
+1031 "F13"     
+1032 "F14"                 
+1033 "F15"                 
+
+1043 "KANA"                
+; (Japanese keyboard)            
+
+1046 "ABNT_C1"             
+; /? on Brazilian keyboard 
+
+1052 "CONVERT"             
+; (Japanese keyboard)            
+
+1054 "NOCONVERT"          
+; (Japanese keyboard)            
+
+1056 "YEN"                 
+; (Japanese keyboard)            
+
+1057 "ABNT_C2"             
+; 7e  Numpad . on Brazilian keyboard 
+
+1072 "NUM EQUAL"        
+; 8d  = on numeric keypad (NEC PC98) 
+
+1075 "PREVTRACK"           
+; Previous Track (DIK_CIRCUMFLEX on Japanese keyboard) 
+
+1076 "AT"                  
+1077 "COLON"               
+1078 "UNDERLINE"          
+
+1079 "KANJI"               
+; (Japanese keyboard)            
+
+1080 "STOP"                
+1081 "AX"                  
+;                     (Japan AX) 
+
+1082 "UNLABELED"           
+;                        (J3100) 
+
+1084 "NEXTTRACK"           
+; Next Track 
+
+1087 "NUM ENT"         
+; Enter on numeric keypad 
+
+1088 "RGT CTRL"       
+; right control key 
+
+1091 "MUTE"                
+
+1092 "CALC"          
+; calculator 
+
+1093 "PLAY"           
+1094 ""
+1095 "MEDIASTOP"           
+
+1105 "VOLDOWN"          
+; volume down / up
+1107 "VOLUP"            
+
+1109 "WEBHOME"   
+1110 "NUM COMMA"         
+; , on numeric keypad 
+
+1112 "NUM DIV"              
+; / on numeric keypad */
+
+1114 "SYSRQ"           
+
+1115 "RGT ALT"              
+;  right Alt 
+
+1128 "PAUSE"               
+
+; arrow keypad
+1130 "HOME"               
+1131 "UP"                  
+1132 "PG UP"               
+
+1134 "LEFT"                
+
+1136 "RIGHT"               
+
+1138 "END"                 
+1139 "DOWN"                
+1140 "PG DOWN"             
+1141 "INSERT"              
+1142 "DELETE"              
+
+1150 "LT WIN"               
+; Left / right  Windows key 
+1151 "RT WIN"               
+1152 "APPS"                
+; AppMenu key 
+
+;1153 "Joystick" ;moved to 1224
+
+1153 "J1 LEFT"
+1154 "J1 RIGHT"
+1155 "J1 UP"
+1156 "J1 DOWN"
+1157 "J1 Z UP"
+1158 "J1 Z DOWN"
+1159 "J1 Z LEFT"
+1160 "J1 Z RIGHT"
+1161 "J1 HAT LFT"
+1162 "J1 HAT RGT"
+1163 "J1 HAT UP"
+1164 "J1 HAT DWN"
+1165 "J1 Button 1"
+1166 "J1 Button 2"
+1167 "J1 Button 3"
+1168 "J1 Button 4"
+1169 "J1 Button 5"
+1170 "J1 Button 6"
+1171 "J1 Button 7"
+1172 "J1 Button 8"
+1173 "J1 Button 9"
+1174 "J1 Button 10"
+1175 "J1 Button 11"
+1176 "J1 Button 12"
+1177 "J1 Button 13"
+1178 "J1 Button 14"
+1179 "J1 Button 15"
+1180 "J1 Button 16"
+1181 "No Save Data Present"
+
+1182	"Play"
+1183	"Controller options"
+1184	"Control Setup Player 1"
+1185	"Press the ESC key"
+1186	"Player 2"
+1187	"Move left"
+1188	"Move right"
+1189	"Move up"
+1190	"Move down"
+1191	"Tag"
+1192	"Special"
+1193	"Jump"
+1194	"Action"
+1195	"Character toggle up"
+1196	"Character toggle down"
+1197	"Start/pause"
+1198	"empty"
+1199	"Cursor-move"
+1200	"Enter-select"
+1201	"Reset old"
+1202	"Default keys"
+1203	"Play"
+1204	"Left"
+1205	"Right"
+1206	"Down"
+1207	"Up"
+1208	"Button"
+1209	"Press [[start]]"
+1210	"Video Options"
+1211	"Low"
+1212	"Medium"
+1213	"High"
+1214	"Ultra"
+1215	"Back"
+1216	"Restore previous display"
+1217	"Keep this display"
+1218	"Exit to Windows"
+
+1219 "J1 Slider 1"
+1220 "J1 Slider 2"
+1221 "J1 Slider 3"
+1222 "J1 Slider 4"
+1223 "Sound Options"
+1224 "Joystick"
+1225 "PLEASE RECONNECT THE CONTROLLER AND PRESS START TO CONTINUE"
+1226 "PLEASE RECONNECT THE CONTROLLER AND PRESS START TO CONTINUE"
+
+1227  "Abandon Changes"
+1228  "Reset To Defaults"
+1229  "Return To Game"
+1230  "Bloom Filtering"
+1231  	"Terrain Reflections"
+1232  "Plastic Reflections"
+1233  "Shadow Mapping"
+1234  "Bump Mapping"
+1235  "Launch Lego Star Wars"
+1236  "Uninstall Lego Star Wars"
+1237  "Lego Star Wars Game Website"
+1238  "Advanced Options"
+1239  "Auto-Save"
+1240  "%d%s blocks available on hard disk"
+1241  "Loading game. Please do not turn off your Xbox console."
+1242  "Saving game. Please do not turn off your Xbox console."
+1243  "Your Xbox doesn't have enough free blocks to save games. Press A to continue without saving or B to free more blocks."
+1244  "Go to Xbox dashboard"
+1245  "The saved game appears to be damaged and cannot be used. Press A to continue."
+1246  "Autosave will now use Game %i on the Hard Disk"
+1247  "Effect Options"
+1249  "You Require Effect Options"
+1250  "ANTIALIAS"
+1251  "Press ENTER to change controller settings"
+1252	"No saved games present."
+1253	"The saved game appears to be damaged and cannot be used."
+;@@
+1254	"Choose Storage Device"
+1255	"New save"
+1256	"Exit to Dashboard"
+1257	"Your Xbox does not have enough free blocks to save games. You need to free %d more block(s). Press A to continue without saving or B to free more blocks."
+1258	"Are you sure you want to enter the Xbox Dashboard? All unsaved progress will be lost."
+1259	"Your Xbox does not have enough free blocks to save games."
+1260	"Your Xbox does not have enough free blocks to save additional games. You need %d free blocks for each additional save."
+1261	"You have reached the maximum saved games for %s. You must delete some saved games before you can save more games."
+1262	"Connect a controller"
+1263	"Press A to continue or B to free more blocks."
+1264	"Pressing B to free more blocks will result in the loss of all unsaved progress."
+1265	"Delete complete"
+1266	"Do not turn off your Xbox console whenever you see the icon above on screen"
+1267 "Assign controller"
+
+
+
+;	1186 pc "Accept"
+;	1187 pc "Cancel"
+1270 pc "Control Setup"
+1271 pc "Control Configuration"
+1272 pc "Change Device"
+1273 pc "No Device Selected"
+1274 pc "Waiting for key/button press, (ESC to cancel)"
+1275 pc "Press a key/button on the device you wish to select. (ESC to cancel)"
+1276 pc "Look Left"
+1277 pc "Look Right"
+1278 pc "Look Up"
+1279 pc "Look Down"
+1280 pc "Joypad / Mouse sensitivity"
+1281 pc "Press [[cross]] to Edit current menu value"
+1282 pc "Select Menu Option"
+1283 pc "(ESC to cancel)"
+1284 pc "Adjust Dead Zone"
+1285 pc "Use [[padleft]]/[[padright]]  to adjust joypad dead zone. (ESC to cancel)"
+1286 pc "Adjust Mouse Sensitivity"
+1287 pc "Use [[padleft]]/[[padright]]  to adjust mouse sensitivity. (ESC to cancel)"
+1288 pc "Press [[CROSS]] to adjust joypad sensitivity"
+1289 pc	"Move Cursor: Up-[[padup]] / Down-[[paddown]] / [[circle]]-Back"
+1290 pc "Joypad DeadZone"
+1291 pc "Mouse Sensitivity"
+
+
+
+
+;
+; Customiser pieces 1300...1399
+;
+1300 "Princess"
+1301 "Maul"
+1302 "Bikini"
+1303 "Tarkin"
+1304 "Spy"
+1305 "Tusken"
+1306 "Raider"
+1307 "Ben"
+1308 "Grand Moff"
+1309 "C"
+1310 "3PO"
+1311 "Rebel"
+1312 "Pilot"
+1313 "Darth"
+1314 "Vader"
+1315 "Boba"
+1316 "Fett"
+1317 "Leia"
+1318 "Han"
+1319 "Solo"
+1320 "Luke"
+1321 "Skywalker"
+1322 "Kenobi"
+1323 "Deathstar"
+1324 "Emperor"
+1325 "Chew"
+1326 "Bacca"
+1327 "Storm"
+1328 "Trooper"
+1329 "Officer"
+1330 "Obi-Wan"
+1331 "Lightsaber"
+1332 "Palpatine"
+1333 "Imperial"
+1334 "Bith"
+1335 "Trumpeter"
+1336 "Ponda"
+1337 "Baba"
+1338 "Dave"
+1339 "Bob"
+1340 "Safari"
+1341 "Hooded"
+1342 "Bespin"
+
+1343 "Brightness"
+
+;
+; Episode II text
+;
+;@@@
+1349 	"GUNSHIP CAVALRY (ORIGINAL)"
+1350 "Episode II"
+1351 "ATTACK OF THE CLONES"
+1352 "DISCOVERY ON KAMINO"
+1353 "DROID FACTORY"
+1354 "JEDI BATTLE"
+1355 "GUNSHIP CAVALRY"
+1356 "COUNT DOOKU"
+1357 "Episode II complete"
+1358 "EPISODE II BONUS"
+
+;
+; Episode III text
+;
+1359 "Episode III"
+1360 "REVENGE OF THE SITH"
+1361 "BATTLE OVER CORUSCANT"
+1362 "CHANCELLOR IN PERIL"
+1363 "GENERAL GRIEVOUS"
+1364 "DEFENSE OF KASHYYYK"
+1365 "RUIN OF THE JEDI"
+1366 "DARTH VADER"
+1367 "Episode III complete"
+1368 "EPISODE III BONUS"
+
+; 
+1400 "White"
+1401 "Grey"
+1402 "Black"
+1403 "Brown"
+1404 "Green"
+1405 "Blue"
+1406 "Orange"
+1407 "Pink"
+1408 "Red"
+1409 "Beige"
+1410 "Yellow"
+
+1411 "SENATE"
+1412 "UTAPAU"
+1413 "HOTH"
+1414 "KASHYYYK"
+1415 "KAMINO"
+1416 "DAGOBAH"
+1417 "Player scores will be lost."
+1418 "All Characters"
+1419 "Jedi Characters"
+1420 "Blaster Characters"
+1421 "Bounty Hunters"
+1422 "Duel"
+1423 "Battle Enemies"
+1424 "Collect Studs"
+1425 "TWO PLAYER ARCADE"
+1426 "Both players must be active"
+1427 "Level locked"
+1428 "Not enough characters"
+1429 "Reset Scores"
+1430 "All"
+1431 "Blaster"
+1432 "Mode"
+1433 	"BONUS"
+1434 	"TRAILERS"
+1435 	"Attract Sequence"
+1436 	"Thrilleville"
+1437 	"LEGO Star Wars Trailer"
+1438 	"LEGO Star Wars 2: Trailer 1"
+1439 	"LEGO Star Wars 2: Trailer 2"
+1440 	"LEGO Star Wars 2: Trailer 3"
+1441 "Reverse Up/Down"
+1442	"Target"
+1443	"Points"
+1444	"Your opponent will win."
+1445	"You will not be awarded a win."
+1446	"You must reach the set target to achieve a win."
+
+1447 "Indiana Jones is now available to buy in the shop."
+1448	"Old Save Bonus"
+1449	"100% Complete! The character customiser now holds the key to Super Jedi Powers..."
+
+; TRCs ran out of space - continued at 1450...
+
+1450 "Rumble"
+1451 "Left Trigger"
+1452 "Right Trigger"
+1453 "The %s data on the memory card (PS2) in MEMORY CARD slot 1 is corrupted."
+1454 "Without deleting the corrupt data, you will be unable to Save your progress."
+;@@
+1455 "You do not have an active gamer profile. You will be unable to save your game progress without an active gamer profile. To create or load a profile, press the Xbox Guide button. Press ~0ý~~ to continue."
+1456 "You have reached the maximum saved games for %s. You must delete some saved games before you can save more games."
+1457 "You will be unable to save your progress unless you overwrite an existing save."
+1458 "No %s saves present on the storage device selected"
+1459 "Autosave will now use Game %i"
+1460 "Do not turn off your console or remove the storage device whenever you see the icon above on screen"
+1461 "The current storage device does not have enough space to save any more games. %iKB are needed for each additional save."
+1462 "Choose Storage Device"
+1463 "Please choose a storage device with at least %iKB free or you will be unable to Save."
+1464 "No valid storage device selected."
+1465 "The current storage device does not have enough space to save games."
+1466 "No new saves can be added to this storage device. Only %i save slots can be accessed in game. Please use the Dashboard to reduce this number."
+1467 "Too many saves found on this storage device. Only the first %i save slots can be accessed in game. Please use the Dashboard to reduce this number."
+1468 "The storage device has been removed or changed."
+1469 "Saving content. Please don't turn off your console."
+
+
+
+; PSP Messages
+
+1500  "No Memory Stick™ inserted"
+1501  "Insufficient space on the Memory Stick™"
+1502  "Please insert a Memory Stick™ with at least %iKB free or you will be unable to Save."
+1503  "Autosave will now use the Memory Stick™"
+1504  "Do not remove the Memory Stick™, reset, or switch off the system whenever you see the icon above on screen."
+1505	"The Memory Stick™ has been removed, or the system entered and exited sleep mode."
+1506  "Create Game"
+1507  "WLAN switch is off"
+1508  "Connecting to network..."
+1509  "Connection to network lost"
+1510  "Connecting to host..."
+1511  "Connection to host lost"
+1512  "Accessing network..."
+1513  "Communicating with network..."
+1514  "Disconnecting from network..."
+1515  "You have been rejected from the host"
+1516  "Power has been suspended"
+1517  "Connect to network failed"
+1518  "Connection Error: WLAN switch is off. Please turn WLAN switch on."
+1519  	"Select and Delete from among all Save data."
+;@@
+1520 "Progress: %.1f%%"
+1521 "Time Played: %s"
+1522 "Wireless Lobby"
+1523 "Please wait - the host is saving progress."
+1524 "Join Game"
+1525 "The Load process was interrupted as the system entered and exited sleep mode. Do you wish to try again?"
+1526 "The Save process was interrupted as the system entered and exited sleep mode. Do you wish to try again?"
+1527 "%s uses %iKB on the Memory Stick™ for each save."
+1528	"Connection to other player lost."
+
+1550 "DISABLED"
+1551 "Mouse"
+1552 "Apply"
+1553 "Run"
+1554 "Walk"
+1555 "MOUSE X"
+1556 "MOUSE Y"
+1557 "MOUSE Z"
+1558 "LEFT MOUSE"
+1559 "RIGHT MOUSE"
+1560 "CENTRE MOUSE"
+
+;1561 "BUMP MAPPING  OFF"
+;1562 "BUMP MAPPING  ON"
+;1563 "BLOOM  OFF"
+;1564 "BLOOM  ON"
+;1565 "SHADOW MAPPING  OFF"
+;1566 "SHADOW MAPPING  ON"
+;1567 "PLASTIC REFLECTIONS OFF"
+;1568 "PLASTIC REFLECTIONS ON"
+;1569 "FLOOR REFLECTIONS  OFF"
+;1570 "FLOOR REFLECTIONS  ON"
+;1571 "WIDESCREEN:  OFF"
+;1572 "WIDESCREEN:"
+
+1561 "BUMP MAPPING"
+1562 "BLOOM FILTERING"
+1563 "ENHANCED WATER"
+1564 "PLASTIC REFLECTIONS"
+1565 "HDR"
+1566 "ANTIALIAS"
+1567 "WIDESCREEN:  Off"
+1568 "WIDESCREEN:"
+
+; Mission 1
+;
+1600 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+1601 	"A band of vicious Bounty Hunters has come together to execute Jabba’s scheme."
+1602 	"Their first target: the Jedi Qui-Gon Jinn, currently engaged on a secret mission above the planet Naboo...."
+;
+; Mission 2
+;
+1603 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+1604 	"Now the royal leader of Naboo has become a target of the Hutt's evil ambition."
+1605 	"A band of vicious Bounty Hunters has come together to execute Jabba’s scheme, and capture Queen Amidala...."
+;
+; Mission 3
+;
+1606 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+1607 	"For once, though, Jabba's information is faulty."
+1608 	"On the planet Naboo, he has sent his Bounty Hunters to find and capture the utterly inconsequential Gungan Jar Jar Binks...."
+;
+; Mission 4
+;
+1609 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+1610 	"Even the noble Jedi have become targets of the Hutt's evil ambition."
+1611 	"A band of vicious Bounty Hunters has come together to execute Jabba’s scheme. Their next target: Mace Windu, currently on Geonosis...."
+;
+; Mission 5
+;
+1612 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+1613 	"Even the noble Jedi have become targets of the Hutt's evil ambition."
+1614 	"A band of vicious Bounty Hunters has come together to execute Jabba’s scheme. Their next target: Kit Fisto, currently on Kamino...."
+;
+; Mission 6
+;
+1615 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+1616 	"Even the noble Jedi have become targets of the Hutt's evil ambition."
+1617 	"A band of vicious Bounty Hunters has come together to execute Jabba’s scheme. Their next target: Luminara Unduli, in the Geonosian battle arena...."
+;
+; Mission 7
+;
+1618 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+1619 	"Even the noble Jedi have become targets of the Hutt's evil ambition."
+1620 	"A band of vicious Bounty Hunters has come together to execute Jabba’s scheme. Their next target: Ki-Adi Mundi, commanding a Republic Attack Cruiser...."
+;
+; Mission 8
+;
+1621 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+1622 	"The greedy mercenaries know no limits in their pursuit of bounty."
+1623 	"On the planet Kashyyyk, they will even pursue a lone Rebel Trooper, far away from home...."
+;
+; Mission 9
+;
+1624 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+1625 	"Even the noble Jedi have become targets of the Hutt's evil ambition."
+1626 	"A band of vicious Bounty Hunters has come together to execute Jabba’s scheme. Their next target: Shaak Ti, in the Jedi Temple...."
+;
+; Mission 10
+;
+1627 "The vile gangster Jabba the Hutt plans to kidnap leading figures across the galaxy, threatening to hand them over to Imperial forces unless a ransom is paid."
+1628 	"A band of vicious Bounty Hunters has come together to execute Jabba’s scheme. "
+1629 	"On the planet Utapau, Commander Cody's high status in the Republic military will make him a valuable prize...."
+
+;
+;Episode I Character Bonus
+;
+1630 "THEED PALACE"
+1631 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1632 "In Theed Palace on Naboo, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+1633 "It’s the desperate, ruthless life of a world in turmoil...."
+;
+;Episode I Vehicle Bonus
+;
+1634 "TATOOINE"
+1635 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1636 "In the Pod racing arena on Tatooine, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+1637 "It’s the desperate, ruthless life of a world in turmoil...."
+
+;
+;Episode II Character Bonus
+;
+1638 "GEONOSIS"
+1639 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1640 "In the droid factory on Geonosis, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+1641 "It’s the desperate, ruthless life of a world in turmoil...."
+;
+;Episode II Vehicle Bonus
+;
+1642 "CORUSCANT"
+1643 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1644 "On the city planet Coruscant, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+1645 "It’s the desperate, ruthless life of a world in turmoil...."
+
+;
+;Episode III Character Bonus
+;
+1646 "MUSTAFAR"
+1647 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1648 "On the volcanic Mustafar system in the outer rim, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+1649 "It’s the desperate, ruthless life of a world in turmoil...."
+;
+;Episode III Vehicle Bonus
+;
+1650 "KASHYYYK"
+1651 "As the Republic struggles to deal with the Trade Federation threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
+1652 "On the Wookiee homeworld of Kashyyyk, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
+1653 "It’s the desperate, ruthless life of a world in turmoil...."
+
+;
+; A New Hope
+; 
+1654 "It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire."
+1655 "Princess Leia Organa now has the blueprints for the Empire's new weapon, the Death Star. But her ship is intercepted and boarded by Darth Vader and his stormtroopers...."
+
+;
+; More game text
+;
+1656 "BONUS LEVELS"
+1657 "Power Brick detector"
+1658 "Super slap"
+1659 "Deflect bolts"
+1660 "Force grapple leap"
+1661 "Super thermal detonator"
+1662 "Disarm troopers"
+1663 "Exploding blaster bolts"
+1664 "Vehicle smart bomb"
+1665 "Walkie talkie disable"
+1666 "Perfect deflect"
+1667 "Force pull"
+1668 "Super astromech"
+1669 "Dark Side"
+1670 "Super Jedi slam"
+1671 "Character studs"
+1672 "South America, 1936"
+1673 "Trailer"
+1674 "All Extras unlocked"
+
+;
+;More Hints
+;
+1675	"Motion Sensor Function available on this level"
+1676	"Tilt controller Left/Right to steer"
+1677	"Tilt controller Up/Down to go fast or slow"
+1678	"Tilt controller to move vehicle"
+
+;
+;Online messages
+;
+1699	"Find Player Match"
+
+1700	"Search For Games"
+1701	"Search criteria"
+1702	"Available Games"
+1703	"Game name"
+1704	"Player name"
+1705	"Ping time"
+1706	"Game disconnected"
+1707	"The other player has left the game"
+1708	"Remove other player from the game"
+1709	"Remove Other Player"
+1710	"Xbox LIVE"
+1711	"Any"
+1712	"[player name] would like to join your game"
+1713	"Connect"
+1714	"Connecting..."
+1715	"Searching for games..."
+1716	"Syncing..."
+1717	"Syncing with other player"
+1718	"Network error"
+1719	"View My Invitations"
+1720	"No Games Available"
+1721	"[player name] has left the game"
+1722	"The game will now exit"
+1723	"Connection failed"
+1724	"Invitation Only"
+1725	"Anyone Can Join"
+1726	"Public Game"
+1727	"Invite A Friend"
+1728	"Xbox LIVE Settings"
+1729	"Connected"
+1730    "Search Episode"
+1731    "Search Area"
+1732    "No Friends Are Online"
+1733	"PLAYSTATION®Network"
+1734	"You have been removed from the game"
+1735	"Remove player two. This will disconnect them from your game. Are you sure?"
+1736	"You have connected to Xbox LIVE. You can invite Xbox LIVE gamer profiles to join your game"
+1737	"You have connected to Xbox LIVE. Xbox LIVE gamer profiles will be able to join your game"
+1738	"You are not connected to Xbox LIVE. Xbox LIVE gamer profiles will be unable to join your game"
+1739	" hanging around the bar again"
+1740	" playing "
+1741	"Motion Sensor Function"
+1742	"Connection failed. The game is full."
+1743    "Selecting"
+1744    "Selected"
+1745    "Confirmed"
+1746	"You have connected to PLAYSTATION®Network. You can invite friends to join your game"
+1747	"You have connected to PLAYSTATION®Network. Other players will be able to join your game"
+1748	"You are not connected to PLAYSTATION®Network. Other players will be unable to join your game"
+1749	"Online Settings"
+1750	"has invited you to play LEGO Star Wars: The Complete Saga"
+1751	"Whenever you see this symbol it means you are waiting for the other player..."
+1752	"Search Mode"
+1753	"Gamer Card"
+1754	"Refresh"
+1755	"Sign In To PLAYSTATION®Network"
+1756	"Xbox LIVE game disconnected"
+1757	"Player disconnected"
+1758	"The host has refused connection to the game"
+1759	"Chat is disabled on your PLAYSTATION®Network account due to parental control restrictions."
+1760	"Online service is disabled on your PLAYSTATION®Network account due to parental control restrictions."
+
+1761	"You are not signed in to a gamer profile."
+1762	"Your gamer profile is not signed in to Xbox LIVE."
+1763	"You do not have sufficient Xbox LIVE privileges to play online multiplayer games."
+
+
+
+; Wii hints
+;instead of 631
+1800	"When playing as a Jedi, press [ACTION] or swipe the Wii Remote to swing your lightsaber."
+;instead of 601
+1801	"Hold [SPECIAL] to use the Force on glowing LEGO objects. You can waggle the Nunchuk to increase your Force speed."
+;instead of 604
+1802	"Approach piles of LEGO and hold [SPECIAL] to build. Move the Wii Remote and Nunchuk up and down alternately to build faster."
+;instead of 610
+1803	"Blaster characters can grapple to other areas. Stand on the red circles and press [SPECIAL], or swipe the Wii Remote up towards the grapple hook."
+;instead of 613
+1804	"Press [ACTION] or hold the Wii Remote horizontally to dodge or deflect blaster bolts."
+
+1900	"Arcade"
+
+; Indy Demo	
+2001	"Some objects can be carried. Press [SPECIAL] to pick them up."
+2002	"Press [SPECIAL] again to drop objects. Press [ACTION] to throw them."
+2003	"Jump on to vines and ropes with [JUMP]."
+2004	"Press [JUMP] again to jump off."
+2005	"Some blocks can be pulled. Grab hold of them with [SPECIAL]"
+2006	"Use a whip to cross gaps when no vines or ropes can be found"
+2007	"When hanging onto a ledge, press [UP] to climb up or [DOWN] to drop down. You can also move from side to side."
+2008	"Only Academic characters can understand ancient runes. Press [SPECIAL] to translate them"

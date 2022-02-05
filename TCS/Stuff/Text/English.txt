@@ -378,10 +378,10 @@
 350 	"Outro"
 351 	"Ending"
 
-352 ""
-353 ""
-354 "Anakin Skywalker (Immolated)" ; Anakin_Jedi_Scarred
-355 ""
+352 "Padmé Amidala (Mustafar)" ; not yet inserted
+353 "Padmé Amidala (Pregnant)" ; UpTheDuff - not yet inserted
+354 "Anakin Skywalker (Immolated)" ; Anakin_Jedi_Scarred; nameid from TCS mobile - not yet inserted
+355 "Lando Calrissian (General)" ; Lando_General; not yet inserted
 356 ""
 357 ""
 358 ""

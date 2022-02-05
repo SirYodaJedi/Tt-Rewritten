@@ -1,0 +1,837 @@
+﻿
+; 0-19 reserved for use by game code (language names, 'null', 'unknown' etc.)
+
+; 20-99 reserved for level and area names, referenced from text files.
+
+57 "Mad Hatter's Glider"
+58 "Tyrannosaurus Rex Fossil"
+59 "Clown Walker"
+60 "Pinball Machine"
+61 "Penguin Army"
+62 "Defence Robot"
+63 "The Gold Reserve"
+64 "Clayface's House of Gold"
+65 "Ice Treat"
+66 "Bat-Tank"
+67 "Police Van"
+68 "Mad Hatter's Steamboat"
+69 "Mr. Freeze's Iceberg"
+70 "Riddler's Jet"
+71 "Yeti"
+72 "Garbage Truck"
+73 "Mad Hatter's Hat"
+74 "Elephant"
+75 "Gold Batsuit"
+76 "Walrus"
+77 "Crocodile"
+78 "Plant Minion"
+79 "Super Freeze Cannon"
+80 "Bruce Wayne's Portrait"
+
+81 "Penguin Minion"
+82 "Mr. Freeze's Kart"
+83 "Zoo Sweeper"
+84 "Security Man"
+85 "Military Policeman"
+86 "Goon Helicopter"
+87 "Joker Henchman"
+88 "Penguin Henchman"
+89 "Riddler Henchman"
+90 "Freeze Girl (Red)"
+91 "Sewage Worker"
+92 "Male Citizen"
+93 "Female Citizen"
+94 "Fishmonger"
+95 "Bio-Hazard Scientist"
+96 "Police Marksman"
+97 "Riot Policeman"
+98 "L.B.I. Agent"
+99 "Clown Goon"
+
+; 100-199 reserved for character names, referenced from text files.
+100 "Batman"
+101 "Robin"
+102 "Catwoman"
+103 "Batgirl"
+104 "Nightwing"
+105 "Alfred"
+106 "Bruce Wayne"
+107 "Dick Grayson"
+108 "Commissioner Gordon"
+109 "Bane"
+110 "Clayface"
+111 "Harley Quinn"
+112 "The Joker"
+113 "Killer Croc"
+114 "Mr. Freeze"
+115 "The Penguin"
+116 "Penguin Minion"
+117 "Poison Ivy"
+118 "The Riddler"
+119 "The Scarecrow"
+120 "Two-Face"
+121 "Commissioner Gordon"
+122 "Businessman"
+123 "Businesswoman"
+124 "Geek"
+125 "Policeman"
+126 "Rock Chick"
+127 "Penguin Goon"
+128 "Batwing"
+129 "Batcopter"
+130 "Man-Bat"
+131 "Mad Hatter"
+132 "Azrael (Red)"
+133 "Deadshot"
+134 "Dr. Jeremiah Arkham"
+135 "Echo"
+136 "Firefly"
+137 "Freeze Girl"
+138 "Harvey Bullock"
+139 "Henchman"
+140 "Huntress"
+141 "Hush"
+142 "Joker Goon"
+143 "Killer Moth"
+144 "Oracle"
+145 "Penguin Minion"
+146 "Query"
+147 "Rā’s al Ghūl"
+148 "Red Hood"
+149 "Riddler Goon"
+150 "Scuba Goon"
+151 "Security Guard"
+152 "Spoiler"
+153 "S.W.A.T."
+154 "Talia"
+155 "The Creeper"
+156 "Ventriloquist and Scarface"
+157 "Venus Fly Trap"
+158 "Zoo Keeper Goon"
+159 "Batgirl (Alternate)"
+160 "Batman (Classic)"
+161 "Batman (Classic II)"
+162 "Catwoman (Classic)
+163 "Huntress (Alternate)"
+164 "The Joker (Tropical)"
+165 "Poison Ivy (Alternate)"
+166 "Robin (Classic)"
+167 "Robin (Classic II)"
+168 "Police Officer"
+169 "The Scarecrow's Biplane"
+170 "The Joker's Helicopter"
+171 "Batmobile"
+172 "Batcycle"
+173 "Batboat"
+174 "Robin's Watercraft"
+175 "Killer Croc's Swamp Rider"
+176 "Police Watercraft"
+177 "Penguin's Submarine"
+178 "Police Boat"
+179 "Police Car"
+180 "Police Bike"
+181 "Two-Face's Armoured Truck"
+182 "Tug Boat"
+183 "Penguin Goon Submarine"
+184 "Police Helicopter"
+185 "Harbour Helicopter"
+186 "Bruce Wayne's Private Jet"
+187 "Robin's Submarine"
+188 "Catwoman's Motorcycle"
+189 "Harley Quinn's Hammer Truck"
+190 "The Joker's Van"
+191 "Gardener"
+192 "Zookeeper"
+193 "Poison Ivy Goon"
+194 "Citizen"
+195 "Janitor"
+196 "Sailor"
+197 "Penguin Henchman"
+198 "Scientist"
+199 "Factory Worker"
+
+
+
+; 200-399 reserved for game text
+200 "LEGO Batman"
+201 "Mission complete"
+202 "Challenge complete"
+203 "Skip"
+204 "Exit Without Saving" 
+205 "Out of time"
+206 "The Batcave"
+207 "Exit to the Batcave?"
+208 "Continue Story"
+209 "Locked"
+210 "Characters"
+211 "Chapter"
+212 "Bonus unlocked"
+213 "Best time"
+214 "High score"
+215 "New best time"
+216 "New high score"
+217 "Super Story"
+218 "Character Bonus"
+219 "Minikit Bonus"
+220 "Level complete"
+221 "Free Play unlocked"
+222 "Super Story unlocked"
+223 "No new best time"
+224 "No new high score"
+225 "Super Story complete"
+226 "All minikits built"
+227 "Finish Story"
+228 "Unlocked"
+229 "Power Brick"
+230 "Swap"
+231 "Save And Exit"
+232 "Random"
+233 "Winner!"
+234 "Confirm"
+235 "Available To Buy"
+236 "Unlock"
+237 "Challenge"
+238 "Bounty"
+239 "Gold Brick"
+240 "Gold Bricks"
+241 "Edit Name"
+242 "Use Edit Name"
+243 "Use Auto Name"
+244 "Final chapter locked"
+245 "Next chapter locked"
+246 "Progress since last saving will be lost."
+247 "Story Clips"
+248 "Clip %i"
+249 "Super Hero"
+250 "Current Game"
+251 "Game"
+252 "New Game"
+253 "DEMO"
+254 "Bonus"
+255 "Extra"
+256 "Paused"
+257 "Resume"
+258 "Restart"
+259 "Restart Level?"
+260 "Exit"
+261 "Exit Level?"
+262 "Quit Game?"
+263 "Options"
+264 "Finish!"
+265 "Continue"
+266 "Retry"
+267 "Quit"
+268 "Yes"
+269 "Ready..."
+270 "Go!"
+271 "Win!"
+272 "No"
+273 "On"
+274 "Off"
+275 "Done"
+276 "Accept"
+277 "Select"
+278 "Back"
+279 "Cancel"
+280 "Player 1"
+281 "Player 2"
+282 "Drop Out"
+283 "Drop Out Of Game?"
+284 "Story"
+285 "Free Play"
+286 "Landing Ship"
+287 "Character Viewer"
+288 "View Camera"
+289 "Replay Story"
+290 "Change"
+291 "Play"
+292 "Buy"
+293 "OK"
+294 "Superkit Piece"
+295 "Minikit"
+296 "Stud Total"
+297 "Studs"
+298 "Level"
+299 "Complete!"
+300 "Time"
+301 "Too Slow!"
+302 "Restart Demo"
+303 "Restart Demo?"
+304 "Load"
+305 "Save"
+306 "Load Game"
+307 "Save Game"
+308 "Data"
+309 "Enter Code"
+310 "Extras"
+311 "All progress in this level will be lost!"
+312 "All story progress will be lost!"
+313 "Audio Volume"
+314 "Audio"
+315 "Widescreen"
+316 "Vibration"
+317 "Surround Sound"
+318 "Sound Volume"
+319 "Sound"
+320 "Music Volume"
+321 "Music"
+322 "Stereo"
+323 "Mono"
+324 "Adjust Screen"
+325 "Screen left/right"
+326 "Screen up/down"
+327 "Insert controller" ;drop-in
+328 "Press START" ;drop-in
+329 "Press START" ;normal
+
+330 "Batsuit"
+331 "Heat Protection Suit"
+332 "Glide Suit"
+333 "Demolition Suit"
+334 "Sonic Suit"
+
+335 "Robin Suit"
+336 "Water Suit"
+337 "Technology Suit"
+338 "Magnet Suit"
+339 "Attract Suit"
+
+340 "Score Multiplier"
+341 "Super-villain"
+342 "Suit Upgrades"
+343 "All Suits"
+344 "Experiment Room"
+345 "Arkham Asylum"
+346 "Exit to Arkham Asylum?"
+347 "Brightness"
+348 "Loading"
+349 "No Space"
+350 "Empty"
+351 "Confirmed"
+352 "Coming Soon"
+353 "All Studs Collected"
+354 "All Extras Unlocked"
+355 "Choose Storage Device"
+356 "Power Up"
+357 "Hero"
+358 "Controller Options"
+359 "Screen V-Sync"
+360 "Hacking" ;nb - as in: hacking into a computer server
+361 "Villain Mission Room"
+362 "Hero Mission Room"
+363 "Villain Trophy Room"
+364 "Hero Trophy Room"
+365 "Maximum Security Area"
+366 "Attract Movie"
+367 "New Game Movie"
+368 "Hero Power Brick"
+369 "Villain Power Brick"
+370 "Intro Movie" ;logos/ident
+371 "TT"
+372 "Intro"
+373 "Midtro"
+374 "Outro"
+375 "Ending"
+376 "Chapter Start"
+377 "Chapter Ending"
+378 "Hero Ending"
+379 "Villain Ending"
+380 "Complete a chapter to activate this lever."
+381 "Pull this lever to access Arkham Asylum."
+382 "Store Progress and Exit"
+383 "Activating"
+
+; 400-499 reserved for hints
+400 "In Free Play, press [TOGGLELEFT] or [TOGGLERIGHT] to choose a different character or change suits."
+
+;CITY STREETS SPECIFIC HINTS - FIRST LEVEL MECHANICS.
+;First
+401 "Batman and Robin can grapple to other areas. Stand on the white circles and press [SPECIAL]."
+;Second, after using the grapple and when close to the tightrope.
+402 "Tightropes can be used to traverse gaps. Jump to get on them."
+;Third, when the suit signal is in camera shot.
+403 "Batman and Robin have different Suit Swapper Signals. Look for their symbols in the signals."
+;Fourth, when the player is in close range of the suit signal.
+404 "Wearing different suits gives you different abilities. Jump into the Suit Swapper to change suits."
+;Fifth, when the player has the suit on.
+405 "You can change back into the other suit by jumping back into the Suit Swapper."
+;Sixth, when the player is wearing the detonator suit and goes near shiny LEGO.
+406 "While wearing Batman's Demolition Suit, you can lay Bat Bombs. These can be used to destroy shiny silver LEGO. To lay them press [SPECIAL]."
+;Seventh, as soon as the player has laid thier first bomb.
+407 "Bombs explode after a period of time. To detonate them manually hold the [SPECIAL] button."
+;If player hasn't already switched, trigger as soon as the Robin Signal is built.
+408 "You can switch control between Batman and Robin by pressing [TAG]."
+;Trigger as soon as Robin is wearing the Tech suit.
+409 "The Technology suit allows Robin to operate green tech panels. Approach the panel and press [SPECIAL]. You can now control specific technological items."
+;Trigger after the player has gone through the car showroom, if they haven't tagged again already.
+410 "Regain control of your other character by pressing [TAG]."
+;When there isn't much happening in the level.
+411 "Hold [ACTION] to enter Batarang mode. Look around to target glowing LEGO objects, then release [ACTION] to throw the Batarang."
+412 "Batman and Robin can perform special attacks. Press [SPECIAL] to grab an enemy, then [SPECIAL] again to throw, or [ACTION] to punch them."
+413 "To detach from a tech panel, press [TAG]."
+
+
+;ATTRACTO SUIT HINT (here couse it won't fit in later)
+419 "Press [SPECIAL] to deposit your LEGO pieces."
+
+;FIRST USES
+
+;Whenever the player first approaches a pile a jibbering LEGO
+420 "Approach piles of LEGO and hold [SPECIAL] to build."
+;When the player first approaches a drivable vehicle in a character level.
+421 "Press [TAG] when close to a vehicle to get into it."
+;When the player is driving their first character level vehicle.
+422 "Press [JUMP] to jump out of a vehicle."
+;First time you go by a security door in villain mode.
+423 "Some characters can trick security guards. Approach the hatch and  press [SPECIAL]."
+;First time you go near a push block.
+424 "You can push objects that have a smooth checkered floor beneath them."
+;First time you go near a super strength object with a super strength character.
+425 "Strong characters can pick up large objects that have an orange handle. Press [SPECIAL] when next to the object."
+First time you get in range of a lever.
+426 "Press [SPECIAL] to pull levers."
+
+;SUITS
+
+;First time you put on the glide suit.
+427 "The Glide Suit allows Batman to glide. Press and hold [JUMP] to glide."
+;First time you put on the Heat Protection Suit.
+428 "The Heat Protection Suit allows Batman to go through flames and use very hot LEGO objects."
+;First time you put on the Sonic Suit.
+429 "The Sonic Suit allows Batman to shatter Glass LEGO bricks. Approach the bricks and hold [SPECIAL]."
+;First time you put on the Water Suit.
+430 "The Water Suit allows Robin to dive in deep water. To surface, hold [JUMP]."
+;First time you put on the Magnet Suit.
+431 "The Magnet Suit allows Robin to walk on Magnetic surfaces."
+;First time you put on the Attract Suit.
+432 "The Attract Suit allows Robin to suck up loose red, green, and yellow LEGO pieces. Deposit them in the Attracto machine to create new LEGO objects."
+
+;VILLAIN ABILITIES
+
+;First time you approach hazard material with a hazard character.
+433 "~2Toxic Waste~~ is poisonous - but some characters and vehicles can get through safely!"
+;First time you get in range of a mind-controllable character with a mind control villain.
+434 "The Riddler's cane gives him Mind Control Abilities. When you see ~5?~~ above a character's head, press [SPECIAL] to take control of them."
+;First time you go near a Joker electricity object.
+435 "The Joker’s electric buzzer can power up special electric generators. Approach the generator and press [SPECIAL]."
+;First time you have a security character and get in range of a security door.
+436 "Some characters can go through security doors. Walk up to the door and press [SPECIAL]."
+;First time you control a Super Jump character
+437 "Some characters can perform extra high jumps. Press [X] and then [X] again in the air."
+;Mr. Freeze
+438 "Mr. Freeze can use his Freeze Ray to freeze enemies. Target them and press [SPECIAL]."
+439 "Mr. Freeze can create frozen platforms on liquids. Hold [SPECIAL] when you see particles of snow on the liquid's surface."
+440 "Superstrength characters can perform special attacks. Press [SPECIAL] to grab an enemy, then [SPECIAL] again to throw, or [ACTION] to punch them."
+441 "Poison Ivy can make plants grow to reach new areas. Hold [SPECIAL] when you see pink hearts on screen."
+442 "Superstrength characters can perform special attacks. Press [SPECIAL] to grab an enemy, then [SPECIAL] again to throw, or [ACTION] to destroy them."
+443 "The Penguin can produce penguin bombers to destroy shiny silver LEGO. Press [SPECIAL] to release them and [SPECIAL] again to detonate."
+444 "Penguin bombers can travel down special chutes to get to new areas."
+445 "When frozen you can break out of the ice by pushing in different directions quickly."
+446 "Try to trick the homing missile into targeting large enemy vehicles."
+447 "Superstrength characters can manipulate heavy objects. Approach an object with an orange handle and hold [SPECIAL]."
+448 "The Joker has a special handshake. Approach a character and press [SPECIAL]."
+449 "Press left and right to move the crane. Press [SPECIAL] to grab."
+450 "Press [TAG] to take control of the wrecking ball."
+
+;SHOP
+
+460 "By pressing [UP] or [DOWN] when on a grapple you can control your height."
+461 "Hold [ACTION] to protect yourself from bullets."
+462 "Many areas of the levels can only be reached by certain characters. Go back to these levels in Free Play, and try to find all the secrets!"
+463 "You can lay more than one Bat Bomb at a time."
+464 "Some characters are stronger-minded than others, meaning you can only confuse them for a short time."
+465 "You can use your Batarang when stationary on a grapple line. Hold [ACTION], target objects and then release the button."
+
+; Wii
+480 "Hold [ACTION] to enter Batarang mode. Use the Wii Remote to move the Batarang target around the screen, then release [ACTION] to throw the Batarang at targeted LEGO objects."
+481 "Batman and Robin can grapple to other areas. Stand on the white circles and swipe the Wii Remote in an upwards motion."
+482 "Approach piles of LEGO and hold [SPECIAL] to build. Move the Wii Remote and Nunchuk up and down alternately to build faster."
+483 "When standing in front of a lever, swipe the Wii Remote downwards to pull it."
+484 "When controlling Catwoman, swipe the Wii Remote out in front of you to crack her whip."
+485 "When you have grabbed an enemy off the floor, swipe the Wii Remote to perform a throw, or swipe the Nunchuk to perform an attack."
+
+;VEHICLES
+487 "Trucks are weaker when their hatches are up. Stomp on them!"
+488 "The Batboat can glide off the end of ramps."
+489 "Press [SPECIAL] to attach to a rolling mine and press [SPECIAL] again to release."
+490 "Press [SPECIAL] to fire your tow cable at targeted vehicles."
+492 "The Batboat can tow floating mines which can destroy shiny silver LEGO barriers. Press [SPECIAL] to attach to a mine press [SPECIAL] again to release."
+493 "Robin's Watercraft can fire torpedoes to destroy red, yellow and green LEGO. Press [SPECIAL] to fire the torpedos."
+494 "The Batwing can fire torpedoes to destroy LEGO objects with a purple target. Press [SPECIAL] to fire the torpedo."
+495 "Helicopters can tow hover mines which destroy shiny silver LEGO objects. Press [SPECIAL] to attach to a mine and press [SPECIAL] again to release."
+496 "Scarecrow's Biplane can fire torpedoes to destroy LEGO objects with a purple target Press [SPECIAL] to fire the torpedo."
+497 "The Penguin's submarine can dive below the surface. Press [JUMP] to dive and press [JUMP] again to re-surface."
+498 "Penguin's submarine can fire penguin torpedoes. Approach a torpedo station to load up, and press [SPECIAL] to fire them at purple targets."
+499 "Killer Croc's Swamp Rider can go through green toxic waste unharmed."
+
+
+; 500-599 reserved for level intro text
+
+;
+;Chapter names
+;
+
+;
+;Hero
+;
+500 "Episode 1"
+501 "The Riddler's Revenge"
+502 "You Can Bank on Batman"
+503 "An Icy Reception"
+504 "Two-Face Chase"
+505 "A Poisonous Appointment"
+506 "The Face-Off"
+
+510 "Episode 2"
+511 "Power Crazed Penguin"
+512 "There She Goes Again"
+513 "Batboat Battle"
+514 "Under the City"
+515 "Zoo's Company"
+516 "Penguin's Lair"
+
+520 "Episode 3"
+521 "The Joker's Return"
+522 "Joker's Home Turf"
+523 "Little Fun at the Big Top"
+524 "Flight of the Bat"
+525 "In the Dark Night"
+526 "To the Top of the Tower"
+
+;
+;Villain
+;
+530 "Episode 1"
+531 "The Riddler's Revenge"
+532 "The Riddler Makes a Withdrawal"
+533 "On the Rocks"
+534 "Green Fingers"
+535 "An Enterprising Theft"
+536 "Breaking Blocks"
+
+;Chapter 2
+540 "Episode 2"
+541 "Power Crazed Penguin"
+542 "Rockin' the Docks"
+543 "Stealing the Show"
+544 "Harbouring a Grudge"
+545 "A Daring Rescue"
+546 "Arctic World"
+
+;Chapter 3
+550 "Episode 3"
+551 "The Joker's Return"
+552 "A Surprise for the Commissioner"
+553 "Biplane Blast"
+554 "The Joker's Masterpiece"
+555 "The Lure of the Night"
+556 "Dying of Laughter"
+
+;
+; Other
+;
+560 "Bonus"
+561 "Wayne Manor"
+562 "Arkham Asylum"
+563 "Hero Super-Kit"
+564 "Villain Super-Kit"
+
+;Mini-cut titles
+570 "Riddler and Two-Face"
+571 "Joker and Riddler"
+572 "Catwoman and Penguin"
+573 "Police Battle Helicopter"
+
+; 600-639 reserved for extras...
+600 "Adaptive Difficulty"
+601 "Extra Toggle"
+602 "Disguise"
+603 "Silhouettes"
+604 "Beep Beep"
+605 "Hit Bubbles"
+606 "Power Brick Detector"
+607 "Stud Magnet"
+608 "Disarm Goons"
+609 "Character Studs"
+610 "Invincibility"
+611 "Score x2"
+612 "Score x4"
+613 "Score x6"
+614 "Score x8"
+615 "Score x10"
+616 "Fast Build"
+617 "Regenerate Hearts"
+618 "Minikit Detector"
+619 "Instant Cable Zap"
+620 "Infinite Torpedoes"
+621 "Ice Rink"
+622 "Super Freeze"
+623 "Immune To Freeze"
+624 "Extra Hearts"
+625 "Always Score Multiply"
+
+; 640-679 reserved for suit upgrades...
+640 "More Batarang Targets"
+641 "More Batarang Damage"
+642 "More Detonators"
+643 "Slam"
+644 "Heat Aura"
+645 "Area Effect"
+646 "Faster Pieces"
+647 "Fast Walk"
+648 "Decoy"
+649 "Fast Batarangs"
+650 "Piece Detector"
+651 "Sonic Pain"
+652 "Bats"
+653 "Fast Grapple"
+654 "Flaming Batarang"
+655 "Freeze Batarang"
+656 "Armour Plating"
+
+; Customiser string(s):
+700 "Test"
+
+
+
+;
+; LEVEL LOAD TEXT
+;
+
+;Wayne Manor
+798 "In the LEGO Universe, anything is possible. Bruce Wayne appears to have left one million studs lying around Wayne Manor. Collect them all as fast as possible!"
+
+;Arkham Asylum
+799 "In the LEGO Universe, anything is possible. A criminal mastermind has left one million studs lying around Arkham Asylum for some other lucky criminal to find. Collect them all, before someone else does!"
+
+
+;
+;HERO CHAPTER 1
+;
+;CLAYFACE
+800 "Actor Basil Karlo turned into the murderous Clayface, a creature of shape-changing protoplasm. He now possesses incredible strength, and can transform his clay-like body into any form!"
+;MR. FREEZE
+801 "A scientist specializing in cryogenics, Dr. Victor Fries froze his wife to prevent her death from a rare disease - but he was injured in his lab, and found himself unable to survive outside a sub-zero environment. As Mr. Freeze, consumed by anger, he uses frozen weaponry in a battle against the city of Gotham, and wears a refrigerated suit which gives him remarkable strength."
+;TWO-FACE (VEHICLE)
+802 "Former District Attorney Harvey Dent, AKA Two-Face, is a villain with a split personality. His every decision is dictated by a double-headed coin, scarred on one side, which he flips to decide if he'll act for good, or for evil. His truck is a heavily-armoured vehicle painted with his distinctive black-and-white livery."
+;POISON IVY
+803 "Pamela Lillian Isley, AKA Poison Ivy, adores plants and uses plant-based toxins in her criminal activities. Her athletic build gives her the ability to jump extra high, and she can create new minions with her mutated seeds."
+;THE RIDDLER
+804 "Edward Nigma, AKA The Riddler, is obsessed with riddles, puzzles and word games. He delights in leaving clues for Batman at the scene of his crimes, which regularly leads to his downfall. Using specially-developed technology incorporated into his cane, he can take control of people's minds."
+
+;
+;HERO CHAPTER 2
+;
+;CATWOMAN
+805 "Selina Kyle, AKA Catwoman, is an accomplished cat burglar with a taste for luxury. She is extremely agile and acrobatic, and deadly with her whip."
+;PENGUIN (VEHICLE)
+806 "The Penguin's special submarine allows him to commit crimes from beneath the waters of Gotham Docks. He can dive below the surface to sneak up on his enemies and fire torpedoes at them."
+;KILLER CROC
+807 "Waylon Jones, AKA Killer Croc, was born with a terrible medical condition that has warped his body into reptilian form. Having turned against humanity, he possesses extraordinary strength and is immune to toxins."
+;MANBAT
+808 "Doctor Kirk Langstrom, AKA the Man-Bat, was an expert in mammalian biology who tested a serum on himself to try to cure his growing deafness. Unfortunately, the serum turned him into a man-sized bat, making him super-strong and giving him the ability to fly."
+;PENGUIN
+809 "Oswald Chesterfield Cobblepot, AKA the Penguin, is a devious crime boss who is seldom seen without one of his trick umbrellas. He can use an umbrella to glide, and keeps penguin bombers under his hat, which can be dispatched at will."
+
+;
+;HERO CHAPTER 3
+;
+;MAD HATTER
+810 "Jervis Tetch, AKA the Mad Hatter, is a crazed villain whose criminal identity is inspired by the lunacy of Alice's Adventures in Wonderland. He uses his mind-control technology to bend people to his will, and he is never seen without a large and fantastic hat."
+;HARLEY QUINN
+811 "Dr. Harleen Quinzel was the Joker's psychiatrist at Arkham Asylum, until she fell in love with him and reinvented herself as the madcap villain Harley Quinn. She is an accomplished acrobat, who will do anything to demonstrate her adoration of the Clown Prince of Crime."
+;SCARECROW (VEHICLE)
+812 "Professor Jonathan Crane, AKA the Scarecrow, is a twisted scientist whose fear toxin stimulates the phobias of his victims. He uses his biplane to rain terror on the citizens of Gotham City from the skies, causing havoc with his scare gas bombs."
+;KILLER MOTH
+813 "Drury Walker took on the persona of Killer Moth to fight the Dark Knight, and developed Batman-like equipment to assist in his criminal activities. His Flight Suit enables him to glide silently over the streets of Gotham."
+;JOKER
+814 "The Joker's clown-like appearance and big smile hide a devious mind bent on creating as much trouble as possible for his archenemy Batman. His array of weapons includes an electric hand buzzer, deadly machine guns, and laughing gas."
+
+;
+;VILLAIN CHAPTER 1
+;
+;CLAYFACE
+815 "''When is a safe not a safe? When THE RIDDLER'S in town! No safe is safe - and you, my Face of Clay, you will be my right-hand... well, for want of a more accurate term, my right-hand MAN.''"
+816 "''Once we've made it to the bank vault, nothing matters but the key.''"
+817 "''PULL YOURSELF TOGETHER, and stay focused on the job!''"
+;MR. FREEZE
+818 "''Freeze, I'm taking you out for ICE CREAM. I know it's your favourite!''"
+819 "''We need your FREEZE CANNON, and it's deep-frozen in your old factory.''"
+820 "''Come on, now - I hope you're not getting COLD FEET. HA!''"
+;POISON IVY
+821 "''I never really liked you, Ivy. But YOU'RE GROWING ON ME! HA HA! Oh, that one's good enough for the Joker.''"
+822 "''Those mutant vine seeds in the Botanic Gardens will give us the lift we need.''"
+823 "''Let's go, GREEN FINGERS!''"
+;TWO-FACE (VEHICLE)
+824 "''It's just you and me now, HARVEY. The perfect match! My endless questions and your coin to answer them.''"
+825 "''So flip one for me, old pal. Shall we break in to Wayne Tech and steal their SUPER LASER?''"
+826 "''Not sure? I'll give you a CLUE.''"
+;THE RIDDLER
+827 "''The FREEZE CANNON, the VINE SEEDS, the SUPER LASER and THE KEY; all pieces of a glorious puzzle. Put them together, and what have we got?''"
+828 "''The GOTHAM GOLD RESERVES!''"
+829 "''Our prize awaits.''"
+
+;
+;VILLAIN CHAPTER 2
+;
+;BANE
+830 "''BANE? It's PENGUIN here. The satellite dish we need for the Penguin Transmitter has just been delivered to THE DOCKS.''"
+831 "''With your fists and my brains, nothing can stop us.''"
+832 "''Tear down the city for all I care - just get me the dish!''"
+;CATWOMAN
+833 "''CATWOMAN, my sweet, would you care to join me? I need your help in acquiring something nearly as beautiful as yourself.''"
+834 "''Yes, the magnificent GOTHAM DIAMOND.''"
+835 "''A quick jaunt across the rooftops, and the next stage of our brilliant plan will be complete.''"
+;KILLER CROC
+836 "''The BIRD and the CROC, together at last.''"
+837 "''What? You want me to CLEAN YOUR TEETH? Ugh!''"
+838 "''Wait. What's this? Cops! You hear them? Ha! They forget, we're creatures of WATER. Let's get out of here!''"
+;KILLER CROC (VEHICLE)
+839 "''Bah! My beloved feline companion, stolen!''"
+840 "''What's that? RESCUE HER? But - the operation! My... my beautiful machine! Risk it all?''"
+841 "''Yes, yes, of course she's worth it. I was just... waiting for the right moment.''"
+;CATWOMAN
+842 "''The time has come. Our perfect team has built my perfect dream. Brick by brick - a tower into the sky, unleashing PENGUINS across the city.''"
+843 "''DON'T SNICKER! Let's just say, they'll be A BLAST!''"
+844 "''Eh? YES, OF COURSE I MEAN THAT THEY EXPLODE. Now! To work!''"
+
+;
+;VILLAIN CHAPTER 3
+;
+;HARLEY QUINN
+845 "''Harley, can I tell you a joke?''"
+846 "''COMMISSIONER GORDON. He... He thinks he runs the city! HA HA HA!''"
+847 "''But Gordon can get us the Batman. He'll run straight into our trap. Be sure to shout ''SURPRISE!''"
+;SCARECROW (VEHICLE)
+848 "''When will that caped goon learn to LIGHTEN UP?''"
+849 "''I do love an evening flight over the city. Don't you, Scarecrow?''"
+850 "''So many obstacles to send Batman crashing to the ground. I'm... I'm so EXCITED!''"
+;SCARECROW
+851 "''Well, that PLANE CRASH was quite a thrill, don't you think?''"
+852 "''Now, where are we? Ah! GOTHAM ART GALLERY. Beautiful, Scarecrow. Just beautiful!''"
+853 "''No, no, no - not the paintings. My lovely grinning face! He he he!''"
+;KILLER MOTH
+854 "''Gah! This is NOT FUNNY! If we don't make it to Gotham Cathedral, this joke will never get its PUNCH LINE!''"
+855 "''Hey, moth man! What's the biggest moth in the world?''"
+856 "''A MAMMOTH!''"
+;HARLEY QUINN
+857 "''If only all of Gotham could be this beautiful, Harley - so HOLLOW and EMPTY.''"
+858 "''We've had some laughs, haven't we? But the biggest one tonight will be on Gotham City.''"
+859 "''It'll be. A GAS! Ahoo Ahoo hoo hoo hoo hoo!''"
+
+
+
+;
+;FACTS
+;
+
+;3 Free
+860 "Batman keeps a collection of ancient armour in the Batcave as part of his study of military history; it includes outfits worn by European knights, desert nomads, and samurai warriors throughout the centuries."
+861 "Rā’s al Ghūl’s daughter Talia is in love with Batman, but her loyalty to her father keeps them from being together."
+862 "The Batsuit has an electrical system that can shock assailants as a last resort."
+;10 Buyable (always available)
+863 "The Batsuit is made of triple-weave Kevlar positioned primarily around the torso’s Bat-Symbol, an intentional and well-protected target."
+864 "The Penguin’s real name is Oswald Chesterfield Cobblepot."
+865 "The Penguin is the owner of a nightclub called the Iceberg Lounge."
+866 "Wayne Tower was built in 1939, is 78 stories high, and is Gotham’s highest building."
+867 "Batman is contacted when Gotham is in need through the Bat-Signal, a light that shines his Bat-Symbol up into the sky."
+868 "The Riddler's real name is Edward Nigma."
+869 "Arkham Asylum's full name is The Elizabeth Arkham Asylum for the Criminally Insane."
+870 "The wood used to carve the dummy Scarface is from Gotham’s Gallows Tree, where prisoners of Gotham’s Blackgate prison were given the ultimate punishment."
+871 "Dick Grayson was taken in by Batman to become the first Robin. After years of crime fighting with Batman, he became a solo crime fighter under the new identity of Nightwing."
+872 "Nightwing modified Batarangs into throwing stars nicknamed 'Wing-Dings.'"
+;30 Buyable (conditional)
+873 "Bruce Wayne’s parents were killed at 10:47 PM, which is the time he puts into a clock in Wayne Manor to access the Batcave."
+874 "Tim Drake was only nine years old when he figured out Batman's true identity, which led to him becoming the new Robin."
+875 "Bruce Wayne discovered the Batcave when he accidentally fell into it as a child."
+876 "There is a great variety of Batarangs. Some are thrown like a boomerang, some are remote-controlled, and some are used as grapples."
+877 "Killer Croc began his life as a scaly-skinned child called Waylon Jones. His reptilian appearance earned him the name “Killer Croc” in sideshows, a name he kept when he became a vicious criminal in Gotham City."
+878 "Gotham City has two baseball teams, the Gotham Knights and Gotham Monarchs, a basketball team, the Gotham Guardsmen, an American football team, the Gotham Wildcats, and finally an ice hockey team, the Gotham Blades."
+879 "Bruce Wayne travelled the world as a teenager, training with ninjas, African Bushmen, and Nepalese monks, among others."
+880 "Batman’s enemies who aren’t insane go to Blackgate prison instead of Arkham Asylum."
+881 "The utility belt contains many of Batman’s crime-fighting gadgets, including Batarangs, Bat-Cuffs, and a first-aid kit."
+882 "The Batcave features various mementoes from Batman’s criminals and allies, including a model of a Tyrannosaurus Rex and a giant 1947 Lincoln head penny."
+883 "Dick Grayson was once part of the circus act The Flying Graysons with his parents John and Mary Grayson until they both tragically lost their lives."
+884 "The Mad Hatter is convinced that he is actually the character of the same name from Lewis Carroll’s Alice’s Adventures in Wonderland."
+885 "Dr. Jeremiah Arkham is the head of Arkham Asylum. His uncle was the founder of the facility."
+886 "Two-Face carries with him a two-headed coin, which has one side scratched with an X."
+887 "The Huntress’s real name is Helena Bertinelli. The only surviving member of a Gotham crime family, she has at times been an ally of Batman, and at other times an adversary."
+888 "When the Batmobile is not the best option for getting somewhere, Batman has a Batplane, a Bat-Copter, and a Bat-Cycle."
+889 "Gotham City is actually a series of islands surrounded by the Gotham river."
+890 "Before Two-Face's terrible accident, he was Gotham City’s District Attorney and a friend of Batman."
+891 "Two-Face was born during the trial of gangster Vincent Maroni, who threw acid into the face of District Attorney Harvey Dent. Horrifically scarred down half his face, Dent took on the identity of Two-Face."
+892 "Alfred Pennyworth has, amongst other things, been an actor on the London stage."
+893 "Gotham City is located atop a major fault line and was once evacuated after a major earthquake."
+894 "The Scarecrow suffers from chiroptophobia, the fear of bats."
+895 "The Penguin’s overprotective mother always insisted he carry an umbrella because his father died of pneumonia after being caught in a rainstorm."
+896 "Batman’s back was once broken by his fearsome enemy Bane. For a short time, Bruce Wayne was then replaced in the Batsuit by the crime fighter Azrael."
+897 "Batgirl's true identity is Barbara Gordon, the daughter of Commissioner Gordon."
+898 "Man-Bat is actually the mutated form of Dr. Kirk Langstrom. Dr. Langstrom injected himself with a serum that would stop his loss of hearing. His serum was based upon a method that bats use to see in the dark, hence his transformation into a bat/human creature."
+899 "Harleen Quinzel was a doctor at Arkham Asylum who fell in love with the Joker. He manipulated her into becoming his sidekick, Harley Quinn, but has never exactly returned her affections."
+900 "Rā’s al Ghūl is centuries old, so old that he no longer remembers his true name."
+901 "The Penguin has used many different umbrellas over the years, including one that acted as a pogo stick, and another that worked like a helicopter."
+902 "The Red Hood, a notorious Gotham criminal, came up against Batman in a chemical factory. To escape he swam through a vat of toxins that made his skin white and his hair green. The man who emerged became the Joker!"
+;10 Buyable (100%)
+903 "Mr. Freeze is motivated by an attempt to cure his cryogenically frozen wife, Nora, at any cost."
+904 "Bruce Wayne was once accused of murder, and for a time it looked like Batman would have to abandon his secret identity."
+905 "Catwoman uses an eight foot-long braided leather bullwhip as her weapon of choice."
+906 "Rā's al Ghūl can bring people who are near death back to life, using one of his Lazarus pits. To create Lazarus pits Rā's mines into the earth and combines electronic ley lines with a mixture of poisons that can rejuvenate dying and aging people."
+907 "Poison Ivy has chlorophyll, not blood, in her veins after being transformed into a human/plant hybrid."
+908 "Catwoman sometimes uses a whip with nine separate steel-tipped ends, known as a cat o’ nine tails."
+909 "Bane’s immense strength comes from the toxin Venom, but he is also very intelligent, having studied military strategy in his attempt to defeat Batman."
+910 "During Gotham’s major earthquake, the inmates ran riot through Arkham Asylum and Dr. Arkham had to seal the building to prevent their escape."
+911 "The Joker is always at the top of Gotham's 'Most Wanted' list."
+912 "Batman has been entrusted by Superman with a kryptonite ring just in case Superman needs to be stopped for some reason."
+;1 Buyable (100% and all other hints collected)
+913 "The End...?"
+
+
+;	1186 pc "Accept"
+;	1187 pc "Cancel"
+920 pc "Control Setup"
+921 pc "Control Configuration"
+922 pc "Change Device"
+923 pc "No Device Selected"
+924 pc "Waiting for key/button press, (ESC to cancel)"
+925 pc "Press a key/button on the device you wish to select. (ESC to cancel)"
+926 pc "Look Left"
+927 pc "Look Right"
+928 pc "Look Up"
+929 pc "Look Down"
+930 pc "Joypad / Mouse sensitivity"
+931 pc "Press [[cross]] to Edit current menu value"
+932 pc "Select Menu Option"
+933 pc "(ESC to cancel)"
+934 pc "Adjust Dead Zone"
+935 pc "Use [[padleft]]/[[padright]]  to adjust joypad dead zone. (ESC to cancel)"
+936 pc "Adjust Mouse Sensitivity"
+937 pc "Use [[padleft]]/[[padright]]  to adjust mouse sensitivity. (ESC to cancel)"
+938 pc "Press [[CROSS]] to adjust joypad or mouse sensitivity"
+939 pc	"Move Cursor: Up-[[padup]] / Down-[[paddown]] / [[circle]]-Back"
+940 pc "Joypad DeadZone"
+941 pc "Mouse Sensitivity"
+942 pc "Move left"
+943 pc "Move right"
+944 pc "Move up"
+945 pc "Move down"
+946 pc "Tag"
+947 pc "Special"
+948 pc "Jump"
+949 pc "Action"
+950 pc "Character toggle up"
+951 pc "Character toggle down"
+952 pc "Start/pause"
+953	pc "Left"
+954	pc "Right"
+955	pc "Down"
+956	pc "Up"
+957 pc "Reset to Defaults"
+958 pc "Run"
+959 pc "Walk"
+960 pc "Mouse Control"
+961 pc "Disabled"
+
+
+;PS3
+
+990 "Assign controller"

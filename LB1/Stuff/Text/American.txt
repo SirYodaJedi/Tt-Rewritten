@@ -1,0 +1,13 @@
+181 "Two-Face's Armored Truck"
+
+185 "Harbor Helicopter"
+
+544 "Harboring a Grudge"
+
+656 "Armour Plating"
+
+818 "''Freeze, I'm taking you out for ICE CREAM. I know it's your favorite!''"
+
+802 "Former District Attorney Harvey Dent, AKA Two-Face, is a villain with a split personality. His every decision is dictated by a double-headed coin, scarred on one side, which he flips to decide if he'll act for good, or for evil. His truck is a heavily-armored vehicle painted with his distinctive black-and-white livery."
+
+860 "Batman keeps a collection of ancient armor in the Batcave as part of his study of military history; it includes outfits worn by European knights, desert nomads, and samurai warriors throughout the centuries."

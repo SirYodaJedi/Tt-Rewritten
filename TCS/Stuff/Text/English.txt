@@ -91,7 +91,7 @@
 107 "Darth Vader"
 108 "Tusken Raider"
 109 "Yoda"
-110 "Gonk Droid"
+110 "Gonk Power Droid"
 111 "Imperial Stormtrooper"
 112 "Luke Skywalker (Bespin)"
 113 "Luke Skywalker (Endor)"
@@ -109,8 +109,8 @@
 125 "Jawa"
 126 "Imperial Snowtrooper"
 127 "Beach Trooper"
-128 "Imperial Luke Skywalker (Stormtrooper Disguise)"
-129 "Imperial Han Solo (Stormtrooper Disguise)"
+128 "Luke Skywalker (Stormtrooper Disguise)"
+129 "Han Solo (Stormtrooper Disguise)"
 130 "Death Star Trooper"
 131 "Imperial TIE Fighter Pilot"
 132 "Imperial Sandtrooper"
@@ -137,7 +137,7 @@
 153 "TC-14"
 154 "Wookiee" ; Wookiee Warrior?
 155 "Chancellor Palpatine"
-156 "Obi-Wan Kenobi (Clone Wars)" ; "Obi-Wan Kenobi (Episode III)". An early TCW version would be "Obi-Wan Kenobi (General)"
+156 "Obi-Wan Kenobi (Clone Wars)" ; "Obi-Wan Kenobi (Episode III)". An early TCW version would be "Obi-Wan Kenobi (General)". Cheatster suggested changing this one to "(Jedi Master)"
 157 "Obi-Wan Kenobi (Mullet)" ; "Obi-Wan Kenobi (Jedi Master)". Could use a better name.
 158 "Padmé Amidala" ; should change to "(Tatooine)", but that currently also changes Padmé Amidala (Pregnant) and Padmé Amidala (Mustafar). Officially "Peasant Disguise"
 159 "Padmé Amidala (Battle of Naboo)"
@@ -380,7 +380,7 @@
 
 352 ""
 353 ""
-354 "Anakin Skywalker (Immolated)"
+354 "Anakin Skywalker (Immolated)" ; Anakin_Jedi_Scarred
 355 ""
 356 ""
 357 ""
@@ -706,8 +706,8 @@
 525 "DAGOBAH"
 526 "BETRAYAL OVER BESPIN"
 527 "CLOUD CITY TRAP"
-528 "BESPIN"
-529 "HOTH"
+528 "CLOUD CITY PLATFORMS" ; "BESPIN"
+529 "HOTH PLAINS" ; "HOTH"
 530 "Episode V complete"
 531 "EPISODE V BONUS"
 ;
@@ -733,8 +733,8 @@
 545 "THE BATTLE OF ENDOR"
 546 "INTO THE DEATH STAR"
 547 "JEDI DESTINY"
-548 "ENDOR"
-549 "ENDOR"
+548 "EWOK VILLAGE" ; "ENDOR"
+549 "ENDOR FOREST" ; "ENDOR"
 550 "Episode VI complete"
 551 "EPISODE VI BONUS"
 ;
@@ -1731,12 +1731,12 @@
 1409 "Beige"
 1410 "Yellow"
 
-1411 "SENATE"
-1412 "UTAPAU"
-1413 "HOTH"
-1414 "KASHYYYK"
-1415 "KAMINO"
-1416 "DAGOBAH"
+1411 "SENATE CHAMBER" ; "SENATE"
+1412 "PAU CITY" ; "UTAPAU"
+1413 "HOTH MOUNTAINS" ; "HOTH"
+1414 "KACHIRHO" ; "KASHYYYK"
+1415 "TIPOCA CITY PLATFORMS" ; "KAMINO"
+1416 "DAGOBAH SWAMP" ; "DAGOBAH"
 1417 "Player scores will be lost."
 1418 "All Characters"
 1419 "Jedi Characters"
@@ -2004,7 +2004,7 @@
 ;
 ;Episode I Vehicle Bonus
 ;
-1634 "TATOOINE"
+1634 "BEGGAR'S CANYON" ; "TATOOINE" 
 1635 "As the Republic struggles to deal with the increasing civil unrest, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
 1636 "In the Pod racing arena on Tatooine, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 1637 "It’s the desperate, ruthless life of a world in turmoil...."
@@ -2012,7 +2012,7 @@
 ;
 ;Episode II Character Bonus
 ;
-1638 "GEONOSIS"
+1638 "DROID FACTORY" ; "GEONOSIS"
 1639 "As the Republic struggles to deal with the Separatist threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
 1640 "In the droid factory on Geonosis, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 1641 "It’s the desperate, ruthless life of a world in turmoil...."

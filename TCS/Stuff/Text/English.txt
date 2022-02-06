@@ -139,7 +139,7 @@
 155 "Chancellor Palpatine"
 156 "Obi-Wan Kenobi (Clone Wars)" ; "Obi-Wan Kenobi (Episode III)". An early TCW version would be "Obi-Wan Kenobi (General)". Cheatster suggested changing this one to "(Jedi Master)"
 157 "Obi-Wan Kenobi (Mullet)" ; "Obi-Wan Kenobi (Jedi Master)". Could use a better name.
-158 "Padmé Amidala" ; should change to "(Tatooine)", but that currently also changes Padmé Amidala (Pregnant) and Padmé Amidala (Mustafar). Officially "Peasant Disguise"
+158 "Padmé Amidala (Tatooine)" ; Officially "Peasant Disguise"
 159 "Padmé Amidala (Battle of Naboo)"
 160 "Padmé Amidala (Battle of Geonosis)" ; "Padmé Amidala (Clawed)"
 161 "Padmé Amidala (Shawl)" ; "Padmé Amidala (Geonosis)"
@@ -206,7 +206,7 @@
 222 "Ewok"
 223 "Lando Calrissian (Tamtel Skreej)" ;"Lando Calrissian (Palace Guard)"
 224 "Luke Skywalker (Hoth)"
-225 "Princess Leia (Bespin Prisoner)"
+225 "Leia Organa (Bespin Prisoner)"
 226 "Han Solo (Endor)"
 227 "Captain Raymus Antilles"
 228 "Imperial TIE Bomber"
@@ -261,7 +261,10 @@
 277 "Gungan Warrior"
 278 "Training Remote"
 
-279 ""
+;
+; LR Hands Man (*NEW*)
+;
+279 "Steve Sansweet"
 
 ; LSW I Mission names
 ;
@@ -276,10 +279,14 @@
 288 	"MISSION 9: Shaak Ti"
 289 	"MISSION 10: Commander Cody" ; leave this, despite changing his nameid
 
-290 ""
-291 ""
-292 ""
-293 ""
+;
+; Randomized NPCs (*NEW*)
+;
+290 "Mos Eisley Denizen (Human)"
+291 "Mos Eisley Denizen (Non-human)"
+292 "Cloud City Citizen"
+293 "Jedi Knight"
+
 294 ""
 
 ;
@@ -378,34 +385,37 @@
 350 	"Outro"
 351 	"Ending"
 
-352 "Padmé Amidala (Mustafar)" ; not yet inserted
-353 "Padmé Amidala (Pregnant)" ; UpTheDuff - not yet inserted
-354 "Anakin Skywalker (Immolated)" ; Anakin_Jedi_Scarred; nameid from TCS mobile - not yet inserted
-355 "Lando Calrissian (General)" ; Lando_General; not yet inserted
-356 ""
-357 ""
-358 ""
-359 ""
-360 ""
-361 ""
-362 ""
-363 ""
-364 ""
-365 ""
-366 ""
-367 ""
-368 ""
-369 ""
+;
+; Unplayable Vanilla characters (*NEW*)
+;
+352 "Padmé Amidala (Mustafar)"
+353 "Padmé Amidala (Pregnant)" ; UpTheDuff
+354 "Anakin Skywalker (Immolated)" ; Anakin_Jedi_Scarred; nameid from TCS mobile
+355 "Lando Calrissian (General)"
+356 "Lando Calrissian (Waistcoat)"
+357 "Mon Calamari"
+358 "Dr. Evazan"
+359 "Ponda Baba"
+360 "Wuher" ; Bartender
+361 "Nien Numb"
+362 "Ten Numb"
+363 "Padmé Amidala (Pilot Disguise)"
+364 "WA-7"
+365 "General Maximilian Veers"
+366 "General Jan Dodonna" ; RebelGeneral
+367 "Luke Skywalker (Ceremony)"
+368 "Luke Skywalker (Medical Gown)"
+369 "2-1B"
 370 ""
-371 ""
-372 ""
-373 ""
-374 ""
-375 ""
-376 ""
-377 ""
-378 ""
-379 ""
+371 "Luke Skywalker (Baby)"
+372 "Leia Organa (Baby)"
+373 "Sentry Droid"
+374 "Bith Musician"
+375 "Gungan Rep" ; RepTeer
+376 "Sebulba"
+377 "Mawhonic"
+378 "Gasgano's Podracer"
+379 "Polis Masa Medic"
 
 ;
 ; New mini-kit names
@@ -2034,7 +2044,7 @@
 ;
 ;Episode III Vehicle Bonus
 ;
-1650 "KASHYYYK"
+1650 "KASHYYYK BEACH" ; "KASHYYYK"
 1651 "As the Republic struggles to deal with the Separatist threat, and the evil Sith plan to destroy the Jedi, daily life goes on across the galaxy."
 1652 "On the Wookiee homeworld of Kashyyyk, intrepid adventurers compete to collect one million LEGO Studs in the fastest time possible."
 1653 "It’s the desperate, ruthless life of a world in turmoil...."

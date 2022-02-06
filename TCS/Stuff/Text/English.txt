@@ -409,7 +409,7 @@
 370 ""
 371 "Luke Skywalker (Baby)"
 372 "Leia Organa (Baby)"
-373 "Sentry Droid"
+373 "Sentry Droid" ; but for what?
 374 "Bith Musician"
 375 "Gungan Rep" ; RepTeer
 376 "Sebulba"

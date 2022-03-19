@@ -23,3 +23,10 @@ Turtle
 Walrus
 Wayne Enterprises Bot
 Catwoman's Whip
+
+Crash test dummy
+Crash test dummy (Commissioner James Gordon)
+Sailor (Striped)
+Police K9 Van
+Riddler Goon Car
+Riddler Goon Van

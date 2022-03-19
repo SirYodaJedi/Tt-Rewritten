@@ -46,7 +46,7 @@
 96 "Police Marksman"
 97 "Riot Policeman"
 98 "L.B.I. Agent"
-99 "Clown Goon"
+99 "Mime Goon"
 
 ; 100-199 reserved for character names, referenced from text files.
 100 "Batman"
@@ -70,7 +70,7 @@
 118 "The Riddler"
 119 "The Scarecrow"
 120 "Two-Face"
-121 "Commissioner Gordon"
+121 "Commissioner James Gordon" ; which one is used?
 122 "Businessman"
 123 "Businesswoman"
 124 "Geek"
@@ -107,7 +107,7 @@
 155 "The Creeper"
 156 "Ventriloquist and Scarface"
 157 "Venus Fly Trap"
-158 "Zoo Keeper Goon"
+158 "Zookeeper Goon"
 159 "Batgirl (Alternate)"
 160 "Batman (Classic)"
 161 "Batman (Classic II)"

@@ -242,7 +242,7 @@
 258 "XJ-6 Airspeeder" ;"Anakin's Speeder"
 259 "XJ-6 Airspeeder (Green)"
 260 "N-1 Naboo Starfighter"
-261 "N-1 Naboo Starfighter (Blue)"
+261 "N-1 Naboo Police Cruiser" ; Blue version
 262 "LAAT" ; republic gunship
 263 "LAAT (Green)"
 264 "Anakin's Podracer"

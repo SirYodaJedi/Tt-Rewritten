@@ -102,7 +102,7 @@
 150 "Scuba Goon"
 151 "Security Guard"
 152 "The Spoiler"
-153 "S.W.A.T."
+153 "S.W.A.T. Team Member"
 154 "Talia āl Ghul"
 155 "The Creeper"
 156 "Ventriloquist and Scarface"
